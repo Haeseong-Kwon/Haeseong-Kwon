@@ -88,6 +88,6 @@
 
 ## 📫 Contact
 
-- 📨 Email: your_email@example.com
+- 📨 Email: crap0530@gmail.com
 - 🌐 Portfolio: [Notion Link](https://your-notion-link)
 - 🧪 Blog: [GitHub Blog](https://holycrap6666.github.io)
