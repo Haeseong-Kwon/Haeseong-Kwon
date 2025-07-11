@@ -90,6 +90,8 @@
 
 🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
 
+</div>
+
 ---
 
 <div align="center">
@@ -109,7 +111,11 @@
 
 🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 링크</a>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🚁 <b>GUARDION (드론 상태 대시보드 앱)</b>
 > 실시간 드론 상태 데이터(온도, 센서 등)를 시각화하는 모니터링 시스템
