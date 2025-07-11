@@ -7,10 +7,11 @@
 
 ## 👋 About Me
 
-- 🎯 목표는 **기획부터 배포까지 직접 구현할 수 있는 풀스택 개발자**
+- 🎯 **기획부터 배포까지 직접 구현하는 풀스택 개발자**
 - 📱 Flutter 기반의 크로스플랫폼 앱 개발 경험 (Android/iOS)
 - 🧑‍💻 React & Next.js 기반의 반응형 웹 프론트엔드 제작
 - 🔧 Supabase, Firebase, Express 등으로 백엔드 API 직접 설계 및 연동
+- 🔧 클라이언트 요청에 대응하는 **서버 구축 및 RESTful API 설계/개발 가능**
 - 🔄 Make, n8n, Cursor AI 등 **AI + 자동화 워크플로우 설계 능력 보유**
 - 🚀 배포부터 유지보수까지 **서비스 운영 경험과 성과 지향 마인드** 보유
 
@@ -20,6 +21,7 @@
 
 ### 💻 Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -27,15 +29,23 @@
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF3AAB?style=flat&logo=framer&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 
 ### 🧩 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### ☁️ Infra & DevOps
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
