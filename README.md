@@ -320,6 +320,61 @@
 
 ---
 
+<div align="center">
+
+### 🧠 VoiceMemo AI (음성 인식 기반 메모 자동화 앱)
+> 음성을 실시간 텍스트로 변환하고 요약까지 자동으로 처리하는 AI 메모 앱
+
+🎙️ 음성 입력 → Whisper 기반 실시간 STT 처리 → GPT 요약으로 자동 정리  
+📁 키워드 추출, 날짜/사건별 분류 시스템 구현  
+🛠 Flutter + Whisper API + GPT + Local Storage 기반 구조
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper_AI-000000?style=flat"/>
+<img src="https://img.shields.io/badge/STT_Text_Conversion-FF6F61?style=flat"/>
+<img src="https://img.shields.io/badge/Local_Storage-9F86C0?style=flat"/>
+
+🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
+
+---
+
+### 📷 SnapTagger (이미지 자동 분류 + 태깅 앱)
+> 사용자가 촬영한 사진을 AI가 자동 분류 + 태그화 → 검색 가능한 갤러리 앱
+
+🖼 이미지 업로드 → ONNX 변환된 Vision 모델로 실시간 태그 분류  
+🔖 유사 태그/시간대/위치 기반 갤러리 필터 제공  
+🛠 Flutter + PyTorch 모델 추론 + 이미지 기반 UI/UX
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX_Model-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Image_Tagging-A6B1E1?style=flat"/>
+<img src="https://img.shields.io/badge/Filter_UI-06B6D4?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
+
+---
+
+### 📅 SmartPlanner AI (AI 일정 정리 및 리마인더 앱)
+> 자연어 입력으로 자동 일정화 및 추천까지 해주는 스마트 캘린더
+
+📝 "내일 3시에 회의" → 자동 파싱 & 일정 등록 → 관련 문서/링크 추천  
+🔔 GPT 기반 대화형 일정 보조 기능, To-do 우선순위 자동화  
+🛠 Flutter + Dart + LangChain + GPT + Calendar Sync API
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
+<img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP_Parsing-FF6F61?style=flat"/>
+<img src="https://img.shields.io/badge/Calendar_API-SkyBlue?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 링크</a>
+
+</div>
+
+---
+
 ## 🚀 개발 경험 요약 (Experience Highlights)
 
 ### 📱 앱 개발 프로젝트
