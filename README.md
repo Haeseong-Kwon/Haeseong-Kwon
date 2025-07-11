@@ -382,7 +382,7 @@
 
 ## 📈 Interests
 
-<div align="left">
+<div align="center">
 
 <table>
   <tr>
