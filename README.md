@@ -25,7 +25,7 @@
   상품 소싱, 상세페이지 제작, 키워드 마케팅, 고객 응대 등  
   **이커머스 전 과정**을 직접 설계·운영하며 매출 성장 경험 축적
 
-- 📘 **전자책 분야 와디즈 펀딩 프로젝트 2건 성공**  
+- 📘 **전자책 분야 와디즈 펀딩 프로젝트 성공 경험**  
   ① 프로젝트 1 지식창업 분야 : 달성률 **1200%** – 콘텐츠 기획과 SNS 광고 최적화 주도  
   ② 프로젝트 2 AI활용 분야 : 달성률 **3000%** – 유입 동선 분석 및 랜딩페이지 전략으로 최적화  
   👉 기획–제작–운영–성과 분석까지 **A to Z 직접 수행**
@@ -428,8 +428,7 @@
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:crap0530@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Haeseong-Kwon)
-[![Notion](https://img.shields.io/badge/Notion_Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://your-notion-link)
-[![Blog](https://img.shields.io/badge/GitHub_Blog-000000?style=flat&logo=githubpages&logoColor=white)](https://holycrap6666.github.io)
-
+- 📧 **Email**: crap0530@gmail.com  
+- 🐙 **GitHub**: [https://github.com/Haeseong-Kwon](https://github.com/Haeseong-Kwon)  
+- 📓 **Portfolio**: [Notion 포트폴리오 바로가기](https://your-notion-link)  
+- 📝 **GitHub Blog**: [https://holycrap6666.github.io](https://holycrap6666.github.io)
