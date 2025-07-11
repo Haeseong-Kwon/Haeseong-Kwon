@@ -195,6 +195,27 @@
 
 <div align="center">
 
+### 🛒 EcomDash (쇼핑몰 통합관리 대시보드)
+> 실제 운영했던 이커머스 사업 경험을 바탕으로 설계한 통합관리형 SaaS 대시보드 시스템
+
+📦 오스타몰K 운영 경험을 기반으로 **상품 관리, 주문/재고/CS 현황을 통합 시각화**  
+📈 기간별 매출 분석, 카테고리별 통계, 주문 상태 필터링 등 **사업자 중심 기능 최적화**  
+🔗 다양한 마켓 플랫폼 연동을 고려한 **확장형 모듈 구조 + 관리자 전용 대시보드 UI 구성**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🤖 PromptPilot (AI 챗봇 커스터마이저)
 > 사용자의 목적에 따라 AI 응답 스타일을 조정하고 결과를 시각화하는 다기능 프롬프트 실험 툴
 
