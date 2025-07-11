@@ -135,6 +135,25 @@
 
 ---
 
+### 🔍 INSPEC (실시간 감리 시스템)
+> 시공 중인 인테리어 현장을 제3의 감리자가 실시간 점검하고 소비자가 확인할 수 있도록 도와주는 관리 시스템
+
+🛠️ Flutter 기반 **소비자 전용 앱**으로 UI/UX 설계 및 프론트엔드 구현  
+📷 시공 현장 사진/영상을 감리자가 실시간 업로드 → 소비자가 즉시 확인  
+🔄 진행 단계별 체크리스트 + 중간 평가 및 피드백 시스템 설계  
+🔐 Supabase 기반 데이터 저장 및 권한 분리(RLS)로 사용자 역할 구분
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image_Upload-009688?style=flat"/>
+<img src="https://img.shields.io/badge/User_Roles-RLS?style=flat"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
+
+---
+
 ## 📈 Interests
 
 🚀 **IT 기반 서비스 창업 및 스타트업 운영 전략에 관심**  
