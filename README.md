@@ -83,6 +83,12 @@
 🔧 Supabase + REST API로 백엔드 구성 (RLS, 트랜잭션 포함)  
 💰 계약, 시공단계, 중금 지불 흐름을 포함한 **보증형 거래 시스템 설계**
 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat"/>
+
 🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
 
 ---
@@ -93,6 +99,11 @@
 🖥️ Flutter 기반 **프론트엔드 개발 담당**  
 📡 실시간 API 연동을 통해 **온도/속도/센서 상태를 시각화**  
 📋 장치 목록 조회, 통합 데이터 상세, 알림 상세 화면 구현
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integration-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Team_Collaboration-Git?style=flat&logo=git&logoColor=white"/>
 
 🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">API 연동 구조도</a>
 
