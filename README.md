@@ -223,6 +223,48 @@
 
 ---
 
+<div align="center">
+
+### 🧬 VisionGuard (AI 위험 이미지 감지 모델 + Flutter 연동)
+> 위험 이미지를 사전에 감지하는 CNN 기반 분류 모델과 이를 연동한 실시간 Flutter 앱
+
+🧠 PyTorch 기반 CNN 모델을 직접 설계/학습하여 **"안전/비안전 이미지" 자동 분류**  
+🔁 학습된 모델을 **ONNX 포맷으로 변환 → Flutter 앱에 실시간 탑재**  
+📷 사용자 갤러리 또는 카메라에서 입력된 이미지를 실시간 추론하여 **경고 알림/로그 기록 기능 제공**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Image_Classification-6A0572?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 LeadPredictor (고객 전환 예측 머신러닝 모델)
+> 사용자 행동 데이터를 기반으로 구매 전환 가능성을 예측하는 ML 기반 분류 시스템
+
+📈 웹사이트/앱 사용자 로그 데이터를 수집하여 **방문 빈도, 페이지 체류 시간, 이벤트 클릭수** 등을 기반으로 특징 추출  
+🧠 scikit-learn 기반으로 **랜덤포레스트, 로지스틱 회귀 등 다양한 모델을 학습**하여 전환 가능성 예측  
+🔍 예측 결과를 시각화하고, **예측 상위 그룹에 타겟 마케팅을 자동 수행**하는 자동화 워크플로우 설계
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+<img src="https://img.shields.io/badge/Classification_Model-808000?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 리포트</a>
+
+</div>
+
+---
+
 ## 📈 Interests
 
 🚀 **IT 기반 서비스 창업 및 스타트업 운영 전략에 관심**  
