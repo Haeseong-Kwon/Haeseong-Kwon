@@ -48,6 +48,28 @@
 
 ---
 
+<div align="center">
+
+### 🔍 DeepMatch (AI 기반 유저 성향 분석 및 콘텐츠 추천 시스템)
+> 딥러닝으로 사용자의 행동 패턴을 벡터화하고, 머신러닝으로 최적의 콘텐츠를 추천하는 하이브리드 예측 모델
+
+🧠 CNN + RNN 구조를 활용해 **사용자의 시청/스크롤/클릭 패턴을 벡터로 임베딩**  
+📊 추출된 벡터를 기반으로 **XGBoost / RandomForest 모델로 콘텐츠 선호도 예측**  
+🎯 실시간 추천 결과를 API로 반환하여 **웹/앱에 바로 연동 가능한 추천 API 서버 구축**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Server-F6C915?style=flat"/>
+<img src="https://img.shields.io/badge/Recommendation_System-1976D2?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 데모</a>
+
+</div>
+
+---
+
 ## 🧪 Projects
 
 <br>
