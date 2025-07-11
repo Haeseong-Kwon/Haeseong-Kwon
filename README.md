@@ -428,33 +428,8 @@
 
 ## 📫 Contact
 
-<div align="left">
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:crap0530@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Haeseong-Kwon)
+[![Notion](https://img.shields.io/badge/Notion_Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://your-notion-link)
+[![Blog](https://img.shields.io/badge/GitHub_Blog-000000?style=flat&logo=githubpages&logoColor=white)](https://holycrap6666.github.io)
 
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></td>
-    <td><strong>Email</strong>  
-      <br/>crap0530@gmail.com
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></td>
-    <td><strong>GitHub</strong>  
-      <br/><a href="https://github.com/Haeseong-Kwon" target="_blank">https://github.com/Haeseong-Kwon</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></td>
-    <td><strong>Portfolio</strong>  
-      <br/><a href="https://your-notion-link" target="_blank">Notion 포트폴리오 바로가기</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white"/></td>
-    <td><strong>GitHub Blog</strong>  
-      <br/><a href="https://holycrap6666.github.io" target="_blank">https://holycrap6666.github.io</a>
-    </td>
-  </tr>
-</table>
-
-</div>
