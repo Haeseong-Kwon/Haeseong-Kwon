@@ -46,6 +46,20 @@
 | **Collaboration**  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white) |
 | **AI / ML / DL**   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black) |
 
+---
+
+## 🏆 수상 및 자격 (Awards & Certifications)
+
+- 🥇 **2025 SID Audition 최우수상** – AI 기반 서비스 기획 및 구현 부문  
+- 🎖 **2024 SID Audition 본선 진출** – 콘텐츠 서비스 창업 아이디어 발표  
+- 🏅 **2025 SW융합대학 포트폴리오 경진대회 수상** – 개인 앱/AI 프로젝트 기반 종합 평가  
+- 📚 **와디즈 전자책 프로젝트 2건 성공** – 달성률 1200%, 3000%로 콘텐츠 분야 연속 펀딩 달성
+
+- 📘 **SQLD** (SQL 개발자 자격증) – 한국데이터산업진흥원  
+- 📗 **ADsP** (데이터분석 준전문가) – 한국데이터산업진흥원
+
+---
+
 ## 🧪 Projects
 
 <br>
