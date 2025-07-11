@@ -153,6 +153,8 @@
 
 🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
 
+---
+
 </div>
 
 ## 📈 Interests
