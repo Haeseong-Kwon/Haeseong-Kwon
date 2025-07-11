@@ -46,30 +46,6 @@
 | **Collaboration**  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white) |
 | **AI / ML / DL**   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black) |
 
----
-
-<div align="center">
-
-### 🔍 DeepMatch (AI 기반 유저 성향 분석 및 콘텐츠 추천 시스템)
-> 딥러닝으로 사용자의 행동 패턴을 벡터화하고, 머신러닝으로 최적의 콘텐츠를 추천하는 하이브리드 예측 모델
-
-🧠 CNN + RNN 구조를 활용해 **사용자의 시청/스크롤/클릭 패턴을 벡터로 임베딩**  
-📊 추출된 벡터를 기반으로 **XGBoost / RandomForest 모델로 콘텐츠 선호도 예측**  
-🎯 실시간 추천 결과를 API로 반환하여 **웹/앱에 바로 연동 가능한 추천 API 서버 구축**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Server-F6C915?style=flat"/>
-<img src="https://img.shields.io/badge/Recommendation_System-1976D2?style=flat"/>
-
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 데모</a>
-
-</div>
-
----
-
 ## 🧪 Projects
 
 <br>
@@ -282,6 +258,28 @@
 <img src="https://img.shields.io/badge/Classification_Model-808000?style=flat"/>
 
 🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 리포트</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔍 DeepMatch (AI 기반 유저 성향 분석 및 콘텐츠 추천 시스템)
+> 딥러닝으로 사용자의 행동 패턴을 벡터화하고, 머신러닝으로 최적의 콘텐츠를 추천하는 하이브리드 예측 모델
+
+🧠 CNN + RNN 구조를 활용해 **사용자의 시청/스크롤/클릭 패턴을 벡터로 임베딩**  
+📊 추출된 벡터를 기반으로 **XGBoost / RandomForest 모델로 콘텐츠 선호도 예측**  
+🎯 실시간 추천 결과를 API로 반환하여 **웹/앱에 바로 연동 가능한 추천 API 서버 구축**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Server-F6C915?style=flat"/>
+<img src="https://img.shields.io/badge/Recommendation_System-1976D2?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 데모</a>
 
 </div>
 
