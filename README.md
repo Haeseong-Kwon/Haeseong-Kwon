@@ -1,6 +1,6 @@
-<h1 align="center"> HaeSeong Kwon | Full-Stack App/Web Developer</h1>
+<h1 align="center"> HaeSeong Kwon | Full-Stack App/Web/AI Developer</h1>
 <p align="center">
-  Building seamless experiences from backend to frontend — for web, mobile, and beyond.
+  Building seamless experiences from backend to frontend — for web, mobile, AI and beyond.
 </p>
 
 ---
