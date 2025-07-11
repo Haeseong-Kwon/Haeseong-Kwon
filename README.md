@@ -100,14 +100,29 @@
 
 ---
 
-### 📊 Weather-based Ad Optimizer (광고 자동화 프로그램)
+<div align="center">
+
+### 📊 <b>Weather-based Ad Optimizer (광고 자동화 프로그램)</b>
 > 기온, 습도 등 외부 환경 데이터를 기반으로 광고 예산을 자동 조정하는 효율 최적화 프로그램
 
 🐍 Python 기반 **웹 크롤링 및 기상 데이터 수집 자동화**  
 📈 날씨 조건에 따라 네이버 광고 API를 통해 **예산 On/Off 및 금액 조정 로직 구현**  
 🧠 광고비 낭비를 줄이고, 시간대/조건별 효율 최적화를 위한 자동화 모델 실험
 
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naver_Ads_API-03C75A?style=flat"/>
+<img src="https://img.shields.io/badge/Cron_Scheduler-8E44AD?style=flat"/>
+<img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
+
+<br>
+
 🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 리포트</a>
+
+</div>
 
 ---
 
