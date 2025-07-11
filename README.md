@@ -320,6 +320,66 @@
 
 ---
 
+## 🚀 개발 경험 요약 (Experience Highlights)
+
+### 📱 앱 개발 프로젝트
+
+| 프로젝트 | 주요 내용 | 활용 기술 |
+|:----------|:-----------|:-----------|
+| INPICK | 실시간 견적 중개 + 감리 관리 앱 | Flutter, Supabase, REST API |
+| GUARDION App | 드론 상태 데이터 시각화 앱 | Flutter, 실시간 API |
+| INSPEC | 감리자 현장 점검 앱, 이미지 업로드 | Flutter, Supabase (RLS) |
+
+→ Flutter 기반의 앱 전체 구조 설계 경험을 통해 **상태관리, 실시간 API 연동, 사용자 권한 구분** 등의 앱 설계 역량을 키움
+
+---
+
+### 🌐 웹 풀스택 프로젝트
+
+| 프로젝트 | 주요 내용 | 활용 기술 |
+|:----------|:-----------|:-----------|
+| INPICK Web | 사용자 유형별 SPA 견적 시스템 | Flutter Web, Routing, Supabase |
+| GUARDION Web | 실시간 센서 데이터 대시보드 | Flutter Web, REST API |
+| EcomDash | 실제 쇼핑몰 관리용 통합 대시보드 | Next.js, React, Zustand, Chart.js |
+
+→ 단순 프론트 구현이 아닌 **UI/UX + 데이터 흐름 + API 연동까지 포함한 풀스택 구조 설계 경험 보유**
+
+---
+
+### 🤖 AI / 자동화 프로젝트
+
+| 프로젝트 | 주요 내용 | 활용 기술 |
+|:----------|:-----------|:-----------|
+| Weather-based Ad Optimizer | 날씨 기반 광고 예산 조정 자동화 | Python, Selenium, Naver Ads API |
+| PromptPilot | GPT 응답 스타일 실험 도구 | LangChain, GPT, Next.js |
+| AutoPitch | AI 기반 기획서 생성 SaaS | GPT, Notion API, Zustand |
+| VisionGuard | 딥러닝 모델 + ONNX → 앱 실시간 추론 | PyTorch, ONNX, Flutter |
+| LeadPredictor | 고객 전환 예측 머신러닝 모델 | scikit-learn, Pandas |
+| DeepMatch | 딥러닝 임베딩 + 머신러닝 분류 시스템 | PyTorch, XGBoost |
+
+→ **AI 모델 실용화**를 위한 데이터 전처리, 학습, 경량화, API화까지 **E2E 구조 설계 및 적용 역량 확보**
+
+---
+
+## 💡 종합 역량 요약 (Skills Gained Through Projects)
+
+- ✅ **현실 적용력**  
+ 실제 사업(쇼핑몰, 전자책 운영 등) 경험을 개발 프로젝트에 반영 → 서비스에 필요한 기능을 실제 관점에서 구현
+
+- 🔧 **기획–설계–개발까지 전 과정 수행 능력**  
+ 아이디어 발굴 → 화면 구성 → API 설계 → 배포까지 독립적으로 수행할 수 있는 풀사이클 역량 확보
+
+- 🧠 **AI 기술의 실전 적용 감각**  
+ GPT, 머신러닝, 딥러닝 모델을 앱/웹 시스템과 연결하여 **기능 단위로 통합 적용**할 수 있는 능력
+
+- 🧩 **풀스택 개발 + 자동화 흐름 이해도**  
+ 단순 코드 구현이 아닌 데이터 흐름, 역할 분리, 상태 동기화, API 설계 등 구조적 사고 기반 개발 역량 보유
+
+- 🚧 **실제 문제 해결과 리팩토링 경험**  
+ 플랫폼 충돌, 인증 문제, 데이터 동기화 이슈 등을 직접 해결하며 **안정적인 서비스 구동 환경 구성**
+
+---
+
 ## 📈 Interests
 
 🚀 **IT 기반 서비스 창업 및 스타트업 운영 전략에 관심**  
