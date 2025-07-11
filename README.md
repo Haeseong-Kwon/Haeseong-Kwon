@@ -92,6 +92,25 @@
 
 ---
 
+<div align="center">
+
+### 💻 INPICK Web (인테리어 중개 플랫폼 웹앱)
+> 앱 기반 인테리어 견적 플랫폼을 웹환경에 맞게 재구성한 반응형 웹앱
+
+🖥️ Flutter Web 기반으로 **소비자/시공업체 유형별 UI를 분리**하여 구현  
+🔐 역할에 따라 하단 탭 및 마이페이지 기능이 동적으로 변화하는 구조 설계  
+📱 견적 요청–업체 탐색–계약 진행 흐름을 웹에서 **단일 페이지로 최적화**
+
+<img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive_UI-00C896?style=flat"/>
+<img src="https://img.shields.io/badge/User_Type_Routing-FF6F61?style=flat"/>
+<img src="https://img.shields.io/badge/SPA(Single_Page_App)-346751?style=flat"/>
+<img src="https://img.shields.io/badge/Figma_UI-F24E1E?style=flat&logo=figma&logoColor=white"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 링크</a>
+
+---
+
 ### 🚁 <b>GUARDION (드론 상태 대시보드 앱)</b>
 > 실시간 드론 상태 데이터(온도, 센서 등)를 시각화하는 모니터링 시스템
 
@@ -104,6 +123,27 @@
 <img src="https://img.shields.io/badge/Team_Collaboration-Git?style=flat&logo=git&logoColor=white"/>
 
 🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">API 연동 구조도</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 GUARDION Web (드론 대시보드 웹앱)
+> 드론의 실시간 상태 데이터를 시각화하는 데스크탑 최적화 대시보드 웹앱
+
+📡 API 연동을 통해 실시간 온도, 습도, 센서 값 등 **종합 센서 데이터를 시각화**  
+📊 대시보드형 UI로 **장치 리스트–데이터 상세–알림 로그** 등 분할 구현  
+🖥️ 웹 전용 반응형 구성으로 데스크탑에서도 **안정적인 데이터 모니터링 환경** 제공
+
+<img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/RealTime_API-3498DB?style=flat"/>
+<img src="https://img.shields.io/badge/Dashboard_UI-FFB703?style=flat"/>
+<img src="https://img.shields.io/badge/Responsive_Design-06B6D4?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Visualization-9F86C0?style=flat"/>
+
+🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 링크</a>
 
 </div>
 
