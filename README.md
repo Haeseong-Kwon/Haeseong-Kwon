@@ -181,6 +181,48 @@
 
 ---
 
+<div align="center">
+
+### 🤖 PromptPilot (AI 챗봇 커스터마이저)
+> 사용자의 목적에 따라 AI 응답 스타일을 조정하고 결과를 시각화하는 다기능 프롬프트 실험 툴
+
+🧠 다양한 프롬프트 세트를 등록하고, 응답 속도, 톤, 길이 등을 **분석/비교 실험** 가능  
+⚙️ 프롬프트 + 컨텍스트 조합으로 챗봇을 **역할 기반 설정** 후, 응답 결과를 시각화 UI로 확인  
+🔄 LangChain + OpenAI API 기반으로 **클라이언트 요청 대응형 프롬프트 개발 워크플로우** 내장
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
+<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recharts-8884D8?style=flat"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+
+🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 AutoPitch (AI 자동 기획서 생성기)
+> 사업/서비스 아이디어만 입력하면 자동으로 피치덱 형태의 기획서를 생성해주는 SaaS 도구
+
+📝 서비스 목적, 타겟, 경쟁사, 수익모델 등 **10개 항목을 입력**하면 GPT가 기획서 자동 구성  
+🪄 생성된 내용을 기반으로 **슬라이드/노션/프레젠테이션 포맷으로 출력 가능**  
+🚀 기획/요약/디자인 템플릿을 선택하여 **스타트업용 MVP 기획 자동화 툴**로 활용 가능
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion_API-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma_API-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat"/>
+
+🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 링크</a>
+
+</div>
+
+---
+
 ## 📈 Interests
 
 🚀 **IT 기반 서비스 창업 및 스타트업 운영 전략에 관심**  
