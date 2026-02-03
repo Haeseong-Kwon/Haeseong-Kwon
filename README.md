@@ -86,27 +86,6 @@
 
 <div align="center">
 
-### 💻 INPICK Web (인테리어 중개 플랫폼 웹앱)
-> 앱 기반 인테리어 견적 플랫폼을 웹환경에 맞게 재구성한 반응형 웹앱
-
-🖥️ Flutter Web 기반으로 **소비자/시공업체 유형별 UI를 분리**하여 구현  
-🔐 역할에 따라 하단 탭 및 마이페이지 기능이 동적으로 변화하는 구조 설계  
-📱 견적 요청–업체 탐색–계약 진행 흐름을 웹에서 **단일 페이지로 최적화**
-
-<img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive_UI-00C896?style=flat"/>
-<img src="https://img.shields.io/badge/User_Type_Routing-FF6F61?style=flat"/>
-<img src="https://img.shields.io/badge/SPA(Single_Page_App)-346751?style=flat"/>
-<img src="https://img.shields.io/badge/Figma_UI-F24E1E?style=flat&logo=figma&logoColor=white"/>
-
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 링크</a>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🚁 <b>GUARDION (드론 상태 대시보드 앱)</b>
 > 실시간 드론 상태 데이터(온도, 센서 등)를 시각화하는 모니터링 시스템
 
@@ -126,68 +105,21 @@
 
 <div align="center">
 
-### 🌐 GUARDION Web (드론 대시보드 웹앱)
-> 드론의 실시간 상태 데이터를 시각화하는 데스크탑 최적화 대시보드 웹앱
+### 🧩 <b>MetaSurface Designer (메타표면 설계 웹앱)</b>
+> 목표 성능(파장/NA/초점거리/PSF 등)을 입력하면 메타표면(phase map/파라미터)을 자동 설계하고 결과를 시각화하는 Inverse Design 제품
 
-📡 API 연동을 통해 실시간 온도, 습도, 센서 값 등 **종합 센서 데이터를 시각화**  
-📊 대시보드형 UI로 **장치 리스트–데이터 상세–알림 로그** 등 분할 구현  
-🖥️ 웹 전용 반응형 구성으로 데스크탑에서도 **안정적인 데이터 모니터링 환경** 제공
+⚡ 설계 프리셋(메타렌즈/빔 스티어링) + 결과 리포트(오차/효율/수렴 그래프) 자동 생성  
+🧠 Surrogate Model 기반 빠른 탐색 + Gradient-based 최적화 지원  
+📤 파라미터 Export(CSV/JSON) + 설계 히스토리/버전 관리
 
-<img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/RealTime_API-3498DB?style=flat"/>
-<img src="https://img.shields.io/badge/Dashboard_UI-FFB703?style=flat"/>
-<img src="https://img.shields.io/badge/Responsive_Design-06B6D4?style=flat"/>
-<img src="https://img.shields.io/badge/Data_Visualization-9F86C0?style=flat"/>
-
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 링크</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 <b>Weather-based Ad Optimizer (광고 자동화 프로그램)</b>
-> 기온, 습도 등 외부 환경 데이터를 기반으로 광고 예산을 자동 조정하는 효율 최적화 프로그램
-
-🐍 Python 기반 **웹 크롤링 및 기상 데이터 수집 자동화**  
-📈 날씨 조건에 따라 네이버 광고 API를 통해 **예산 On/Off 및 금액 조정 로직 구현**  
-🧠 광고비 낭비를 줄이고, 시간대/조건별 효율 최적화를 위한 자동화 모델 실험
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Naver_Ads_API-03C75A?style=flat"/>
-<img src="https://img.shields.io/badge/Cron_Scheduler-8E44AD?style=flat"/>
-<img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
-
-<br>
-
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 리포트</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔍 INSPEC (인테리어 감리자 파견 및 실시간 점검 시스템)
-> 시공 중인 인테리어 현장을 제3의 감리자가 실시간 점검하고 소비자가 확인할 수 있도록 도와주는 관리 시스템
-
-🛠️ Flutter 기반 **소비자 전용 앱 + 감리자 대시보드 로직**으로 UI/UX 설계 및 프론트엔드 구현  
-📷 시공 현장 사진/영상을 감리자가 실시간 업로드 → 소비자가 즉시 확인  
-🔄 진행 단계별 체크리스트 + 중간 평가 및 피드백 시스템 설계  
-🔐 Supabase 기반 데이터 저장 및 권한 분리(RLS)로 사용자 역할 구분
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Image_Upload-009688?style=flat"/>
-<img src="https://img.shields.io/badge/User_Roles-RLS?style=flat"/>
 
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
+🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기술 문서</a>
 
 </div>
 
@@ -195,20 +127,21 @@
 
 <div align="center">
 
-### 🛒 EcomDash (쇼핑몰 통합관리 대시보드)
-> 실제 운영했던 이커머스 사업 경험을 바탕으로 설계한 통합관리형 SaaS 대시보드 시스템
+### 🧱 <b>Meta-Atom Dataset Factory (시뮬 데이터셋 생성/관리 플랫폼)</b>
+> 메타-아톰 파라미터 sweep → 결과 수집/정제/검증 → 학습용 데이터셋을 “제품처럼” 만드는 연구 생산성 도구
 
-📦 오스타몰K 운영 경험을 기반으로 **상품 관리, 주문/재고/CS 현황을 통합 시각화**  
-📈 기간별 매출 분석, 카테고리별 통계, 주문 상태 필터링 등 **사업자 중심 기능 최적화**  
-🔗 다양한 마켓 플랫폼 연동을 고려한 **확장형 모듈 구조 + 관리자 전용 대시보드 UI 구성**
+🧪 Job Queue 기반 시뮬 실행/실패 재시도/버전 관리  
+📦 데이터셋 카드(분포/커버리지/품질지표) 자동 생성 + 다운로드/공유  
+🔌 향후 EM 시뮬 툴 연동을 고려한 확장형 파이프라인
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
+🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">아키텍처</a>
 
 </div>
 
@@ -216,20 +149,21 @@
 
 <div align="center">
 
-### 🤖 PromptPilot (AI 챗봇 커스터마이저)
-> 사용자의 목적에 따라 AI 응답 스타일을 조정하고 결과를 시각화하는 다기능 프롬프트 실험 툴
+### 🌊 <b>PINN WaveLab (Physics-Informed Neural Network 실험 플랫폼)</b>
+> PDE 제약 기반으로 2D 파동/전자기 문제를 학습하고, 기준해 대비 오차/학습 안정성을 인터랙티브하게 검증하는 웹 실험실
 
-🧠 다양한 프롬프트 세트를 등록하고, 응답 속도, 톤, 길이 등을 **분석/비교 실험** 가능  
-⚙️ 프롬프트 + 컨텍스트 조합으로 챗봇을 **역할 기반 설정** 후, 응답 결과를 시각화 UI로 확인  
-🔄 LangChain + OpenAI API 기반으로 **클라이언트 요청 대응형 프롬프트 개발 워크플로우** 내장
+🎛️ 경계조건/소스/재료상수 슬라이더로 실험 파라미터 조절  
+🧠 Loss term ablation(경계/물리항 on/off) + 결과 heatmap/오차맵 자동 시각화  
+📊 학습 곡선/리포트 자동 생성 + 실험 히스토리 저장
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
-<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=flat&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recharts-8884D8?style=flat"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
-🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
+🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">실험 리포트</a>
 
 </div>
 
@@ -237,20 +171,21 @@
 
 <div align="center">
 
-### 🧠 AutoPitch (AI 자동 기획서 생성기)
-> 사업/서비스 아이디어만 입력하면 자동으로 피치덱 형태의 기획서를 생성해주는 SaaS 도구
+### 🧼 <b>Optics Restoration Studio (광학/센서 기반 이미지 복원 제품)</b>
+> 광학 블러/수차/센서 노이즈(shot/read) 모델을 선택하면 자동으로 복원 모델을 적용하고 정량 지표와 전/후 비교를 제공하는 복원 스튜디오
 
-📝 서비스 목적, 타겟, 경쟁사, 수익모델 등 **10개 항목을 입력**하면 GPT가 기획서 자동 구성  
-🪄 생성된 내용을 기반으로 **슬라이드/노션/프레젠테이션 포맷으로 출력 가능**  
-🚀 기획/요약/디자인 템플릿을 선택하여 **스타트업용 MVP 기획 자동화 툴**로 활용 가능
+📷 RAW/저조도/모션블러 모드 + 전/후 비교 뷰어  
+📈 PSNR/SSIM 리포트 + 모델 비교(베이스라인 vs 개선모델)  
+🚀 업로드 → 즉시 추론 → 결과 다운로드까지 “프로덕트 흐름” 완성
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion_API-000000?style=flat&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma_API-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
-🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 링크</a>
+🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">결과 샘플</a>
 
 </div>
 
@@ -258,20 +193,127 @@
 
 <div align="center">
 
-### 🧬 VisionGuard (AI 위험 이미지 감지 모델 + Flutter 연동)
-> 위험 이미지를 사전에 감지하는 CNN 기반 분류 모델과 이를 연동한 실시간 Flutter 앱
+### 🧪 <b>CMOS Sensor Health Dashboard (센서 결함/노이즈 진단 대시보드)</b>
+> 센서 프레임/로그를 업로드하면 핫픽셀/고정패턴노이즈/라인 결함 등을 자동 탐지하고 리포트화하는 QA형 제품
 
-🧠 PyTorch 기반 CNN 모델을 직접 설계/학습하여 **"안전/비안전 이미지" 자동 분류**  
-🔁 학습된 모델을 **ONNX 포맷으로 변환 → Flutter 앱에 실시간 탑재**  
-📷 사용자 갤러리 또는 카메라에서 입력된 이미지를 실시간 추론하여 **경고 알림/로그 기록 기능 제공**
+🧠 결함 탐지 모델 + 통계 기반 품질 지표 자동 산출  
+🗺️ 결함 맵 시각화 + 배치 검사 + 불량률 추이 차트  
+📄 PDF 리포트 생성 + 케이스 저장/비교 기능
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Visualization-9F86C0?style=flat"/>
+
+🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">리포트 샘플</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🕶️ <b>AR/VR Display Calibrator (디스플레이 보정 도구)</b>
+> 캘리브레이션 패턴 촬영 → 왜곡/색수차/수차를 추정해 보정 LUT/파라미터를 생성하는 AR/VR 디스플레이 보정 제품
+
+🎯 기기 프로필 저장 + 전/후 비교  
+🧠 최적화 기반 파라미터 추정 + 보정값 Export(LUT/JSON)  
+📱 모바일 촬영 입력 지원을 고려한 UX 설계
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Optimization-FFB703?style=flat"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
+
+🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기술 문서</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 <b>Photonics Experiment Log Analyzer (측정 데이터 분석 SaaS)</b>
+> 분광/스펙트럼/실험 로그를 업로드하면 피크 탐지·피팅·분류·이상치를 자동 리포팅하는 실험 데이터 분석 제품
+
+🔍 자동 피크 탐지/피팅 모델 선택 + 실험 세션 관리  
+📊 결과 공유 링크 + PDF 리포트 자동 생성  
+🔌 다양한 측정 포맷(CSV 등) 확장형 파서 구조
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
+<img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
+
+🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">리포트 샘플</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ☀️ <b>Solar Cell Curve Intelligence (IV Curve 분석/최적화)</b>
+> IV curve/환경 파라미터로 효율을 추정하고 원인 분석 및 개선 액션을 추천하는 태양전지 분석/최적화 제품
+
+📉 곡선 클러스터링 + 결함 유형 분류 + 성능 예측  
+🧠 최적화 기반 추천(공정/재료/구조 방향)  
+📊 실험 히스토리 관리 + 결과 대시보드 제공
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+<img src="https://img.shields.io/badge/Optimization-FFB703?style=flat"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+
+🔗 <a href="#">시연 리포트</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 <b>Brain MRI Assist (뇌 MRI 분석 웹뷰어)</b>
+> MRI 업로드 → 세그/분류 결과를 오버레이로 보여주고, 자동 요약 리포트를 생성하는 Biomedical AI 제품
+
+🧬 세그멘테이션(U-Net 등) / 분류 모델 + 신뢰도 제공  
+🖼️ 슬라이스 뷰어 + 결과 오버레이 + 케이스 저장/비교  
+📄 결과 요약 리포트(PDF) + 추론 API 제공
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DICOM/NIfTI-000000?style=flat"/>
+
+🔗 <a href="#">시연 데모</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">결과 샘플</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧫 <b>Medical GenAI Augmentor (의료 데이터 증강 파이프라인)</b>
+> 데이터 부족/불균형을 해결하기 위한 조건부 생성(증강) → 품질 필터링 → 성능 전/후 리포트까지 묶은 생성형AI 제품
+
+🪄 생성 샘플 품질 자동 필터링 + 다양성/유사도 지표  
+📊 증강 전/후 학습 성능 비교 리포트 자동 생성  
+🔁 워크플로우 자동화(n8n/Make)와 연동 가능한 파이프라인 설계
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Image_Classification-6A0572?style=flat"/>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-E95F2B?style=flat&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make-A543F4?style=flat&logo=make&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
 
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
+🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">실험 리포트</a>
 
 </div>
 
@@ -279,97 +321,20 @@
 
 <div align="center">
 
-### 📊 LeadPredictor (고객 전환 예측 머신러닝 모델)
-> 사용자 행동 데이터를 기반으로 구매 전환 가능성을 예측하는 ML 기반 분류 시스템
+### 🧷 <b>Metasurface Process Yield Predictor (메타표면 공정 수율 예측)</b>
+> 공정 파라미터/측정 지표를 기반으로 수율 저하 원인을 예측하고, 개선 액션을 추천하는 메타표면 공정 분석 제품
 
-📈 웹사이트/앱 사용자 로그 데이터를 수집하여 **방문 빈도, 페이지 체류 시간, 이벤트 클릭수** 등을 기반으로 특징 추출  
-🧠 scikit-learn 기반으로 **랜덤포레스트, 로지스틱 회귀 등 다양한 모델을 학습**하여 전환 가능성 예측  
-🔍 예측 결과를 시각화하고, **예측 상위 그룹에 타겟 마케팅을 자동 수행**하는 자동화 워크플로우 설계
+📌 공정 조건(치수 편차/두께/리소그래피 오차 등) → 성능 저하 패턴 학습  
+📈 수율 예측 + 원인 중요도(Feature importance) 시각화  
+🧪 실험 케이스 저장/비교 + 리포트 자동 생성
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-<img src="https://img.shields.io/badge/Classification_Model-808000?style=flat"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
 
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 리포트</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔍 DeepMatch (AI 기반 유저 성향 분석 및 콘텐츠 추천 시스템)
-> 딥러닝으로 사용자의 행동 패턴을 벡터화하고, 머신러닝으로 최적의 콘텐츠를 추천하는 하이브리드 예측 모델
-
-🧠 CNN + RNN 구조를 활용해 **사용자의 시청/스크롤/클릭 패턴을 벡터로 임베딩**  
-📊 추출된 벡터를 기반으로 **XGBoost / RandomForest 모델로 콘텐츠 선호도 예측**  
-🎯 실시간 추천 결과를 API로 반환하여 **웹/앱에 바로 연동 가능한 추천 API 서버 구축**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Server-F6C915?style=flat"/>
-<img src="https://img.shields.io/badge/Recommendation_System-1976D2?style=flat"/>
-
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 데모</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🧠 VoiceMemo AI (음성 인식 기반 메모 자동화 앱)
-> 음성을 실시간 텍스트로 변환하고 요약까지 자동으로 처리하는 AI 메모 앱
-
-🎙️ 음성 입력 → Whisper 기반 실시간 STT 처리 → GPT 요약으로 자동 정리  
-📁 키워드 추출, 날짜/사건별 분류 시스템 구현  
-🛠 Flutter + Whisper API + GPT + Local Storage 기반 구조
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whisper_AI-000000?style=flat"/>
-<img src="https://img.shields.io/badge/STT_Text_Conversion-FF6F61?style=flat"/>
-<img src="https://img.shields.io/badge/Local_Storage-9F86C0?style=flat"/>
-
-🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
-
----
-
-### 📷 SnapTagger (이미지 자동 분류 + 태깅 앱)
-> 사용자가 촬영한 사진을 AI가 자동 분류 + 태그화 → 검색 가능한 갤러리 앱
-
-🖼 이미지 업로드 → ONNX 변환된 Vision 모델로 실시간 태그 분류  
-🔖 유사 태그/시간대/위치 기반 갤러리 필터 제공  
-🛠 Flutter + PyTorch 모델 추론 + 이미지 기반 UI/UX
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX_Model-000000?style=flat"/>
-<img src="https://img.shields.io/badge/Image_Tagging-A6B1E1?style=flat"/>
-<img src="https://img.shields.io/badge/Filter_UI-06B6D4?style=flat"/>
-
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 영상</a>
-
----
-
-### 📅 SmartPlanner AI (AI 일정 정리 및 리마인더 앱)
-> 자연어 입력으로 자동 일정화 및 추천까지 해주는 스마트 캘린더
-
-📝 "내일 3시에 회의" → 자동 파싱 & 일정 등록 → 관련 문서/링크 추천  
-🔔 GPT 기반 대화형 일정 보조 기능, To-do 우선순위 자동화  
-🛠 Flutter + Dart + LangChain + GPT + Calendar Sync API
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
-<img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP_Parsing-FF6F61?style=flat"/>
-<img src="https://img.shields.io/badge/Calendar_API-SkyBlue?style=flat"/>
-
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">시연 링크</a>
+🔗 <a href="#">시연 리포트</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
 
 </div>
 
@@ -383,7 +348,6 @@
 |:----------|:-----------|:-----------|
 | INPICK | 실시간 견적 중개 + 감리 관리 앱 | Flutter, Supabase, REST API |
 | GUARDION App | 드론 상태 데이터 시각화 앱 | Flutter, 실시간 API |
-| INSPEC | 감리자 현장 점검 앱, 이미지 업로드 | Flutter, Supabase (RLS) |
 
 → Flutter 기반의 앱 전체 구조 설계 경험을 통해 **상태관리, 실시간 API 연동, 사용자 권한 구분** 등의 앱 설계 역량을 키움
 
@@ -393,9 +357,12 @@
 
 | 프로젝트 | 주요 내용 | 활용 기술 |
 |:----------|:-----------|:-----------|
-| INPICK Web | 사용자 유형별 SPA 견적 시스템 | Flutter Web, Routing, Supabase |
-| GUARDION Web | 실시간 센서 데이터 대시보드 | Flutter Web, REST API |
-| EcomDash | 실제 쇼핑몰 관리용 통합 대시보드 | Next.js, React, Zustand, Chart.js |
+| MetaSurface Designer | 메타표면 inverse design 웹앱 | Next.js, FastAPI, PyTorch |
+| Meta-Atom Dataset Factory | 메타-아톰 데이터셋 생성/관리 | Next.js, Node.js, Redis, Supabase |
+| PINN WaveLab | PINN 기반 PDE/EM 실험 플랫폼 | Next.js, FastAPI, PyTorch |
+| Optics Restoration Studio | 광학/센서 이미지 복원 제품 | Next.js, PyTorch, OpenCV |
+| CMOS Sensor Health Dashboard | 센서 결함/노이즈 QA 대시보드 | Next.js, FastAPI, PostgreSQL |
+| Brain MRI Assist | 의료영상 분석 웹뷰어 | Next.js, FastAPI, PyTorch |
 
 → 단순 프론트 구현이 아닌 **UI/UX + 데이터 흐름 + API 연동까지 포함한 풀스택 구조 설계 경험 보유**
 
@@ -405,14 +372,12 @@
 
 | 프로젝트 | 주요 내용 | 활용 기술 |
 |:----------|:-----------|:-----------|
-| Weather-based Ad Optimizer | 날씨 기반 광고 예산 조정 자동화 | Python, Selenium, Naver Ads API |
-| PromptPilot | GPT 응답 스타일 실험 도구 | LangChain, GPT, Next.js |
-| AutoPitch | AI 기반 기획서 생성 SaaS | GPT, Notion API, Zustand |
-| VisionGuard | 딥러닝 모델 + ONNX → 앱 실시간 추론 | PyTorch, ONNX, Flutter |
-| LeadPredictor | 고객 전환 예측 머신러닝 모델 | scikit-learn, Pandas |
-| DeepMatch | 딥러닝 임베딩 + 머신러닝 분류 시스템 | PyTorch, XGBoost |
+| Photonics Experiment Log Analyzer | 실험 로그 자동 분석/리포트 | Pandas, scikit-learn, Supabase |
+| Solar Cell Curve Intelligence | IV curve 분석/최적화 | Python, scikit-learn |
+| Medical GenAI Augmentor | 의료 데이터 증강 파이프라인 | PyTorch, Hugging Face, n8n |
+| Metasurface Process Yield Predictor | 공정 수율 예측/원인 분석 | Python, scikit-learn |
 
-→ **AI 모델 실용화**를 위한 데이터 전처리, 학습, 경량화, API화까지 **E2E 구조 설계 및 적용 역량 확보**
+→ **AI 모델 실용화**를 위한 데이터 전처리, 학습, API화까지 **E2E 구조 설계 및 적용 역량 확보**
 
 ---
 
@@ -425,7 +390,7 @@
  아이디어 발굴 → 화면 구성 → API 설계 → 배포까지 독립적으로 수행할 수 있는 풀사이클 역량 확보
 
 - 🧠 **AI 기술의 실전 적용 감각**  
- GPT, 머신러닝, 딥러닝 모델을 앱/웹 시스템과 연결하여 **기능 단위로 통합 적용**할 수 있는 능력
+ ML/DL/생성형AI 모델을 앱/웹 시스템과 연결하여 **기능 단위로 통합 적용**할 수 있는 능력
 
 - 🧩 **풀스택 개발 + 자동화 흐름 이해도**  
  단순 코드 구현이 아닌 데이터 흐름, 역할 분리, 상태 동기화, API 설계 등 구조적 사고 기반 개발 역량 보유
