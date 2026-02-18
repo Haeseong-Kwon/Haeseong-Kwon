@@ -20,13 +20,10 @@
 ## 💼 Business Experience
 - 🔧 **개발과 비즈니스를 잇는, 주도적인 개발자**
 
-- 🛍️ **N사 스마트스토어 '오스타몰k' 개설 및 운영 경험**  
-  매출 0원에서 시작해 **3개월 내 파워등급 달성**  
-  상품 소싱, 상세페이지 제작, 키워드 마케팅, 고객 응대 등  
+- 🛍️ **N사 스마트스토어 '오스타몰k' 개설 및 운영 경험** 매출 0원에서 시작해 **3개월 내 파워등급 달성** 상품 소싱, 상세페이지 제작, 키워드 마케팅, 고객 응대 등  
   **이커머스 전 과정**을 직접 설계·운영하며 매출 성장 경험 축적
 
-- 📘 **전자책 분야 와디즈 펀딩 프로젝트 성공 경험**  
-  ① 프로젝트 1 지식창업 분야 : 달성률 **1200%** – 콘텐츠 기획과 SNS 광고 최적화 주도  
+- 📘 **전자책 분야 와디즈 펀딩 프로젝트 성공 경험** ① 프로젝트 1 지식창업 분야 : 달성률 **1200%** – 콘텐츠 기획과 SNS 광고 최적화 주도  
   ② 프로젝트 2 AI활용 분야 : 달성률 **3000%** – 유입 동선 분석 및 랜딩페이지 전략으로 최적화  
   👉 기획–제작–운영–성과 분석까지 **A to Z 직접 수행**
 
@@ -39,12 +36,12 @@
 
 | Category           | Tools |
 |:------------------|:------|
-| **Frontend**       | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vuedotjs&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat) ![React_Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Shadcn_UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Framer_Motion](https://img.shields.io/badge/Framer_Motion-EF3AAB?style=flat&logo=framer&logoColor=white) |
-| **Backend & DB**   | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![REST_API](https://img.shields.io/badge/REST_API-FF6F61?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=flat) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
+| **Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vuedotjs&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat) ![React_Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Shadcn_UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Framer_Motion](https://img.shields.io/badge/Framer_Motion-EF3AAB?style=flat&logo=framer&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![REST_API](https://img.shields.io/badge/REST_API-FF6F61?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=flat) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black) |
 | **DevOps / Infra** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![GitLab_CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
 | **Automation / Tools** | ![Make](https://img.shields.io/badge/Make-A543F4?style=flat&logo=make&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-E95F2B?style=flat&logo=n8n&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Prefect](https://img.shields.io/badge/Prefect-0B0D0E?style=flat) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white) ![OpenAI_API](https://img.shields.io/badge/OpenAI_API-10A37F?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| **Collaboration**  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
-| **AI / ML / DL**   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch_Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Hugging_Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat) ![Weights_%26_Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat) |
+| **Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white) |
+| **AI / ML / DL** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch_Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Hugging_Face](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat) ![Weights_%26_Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat) |
 
 ---
 
@@ -69,15 +66,11 @@
 ## 📜 특허 (Patents)
 
 💡 **블라인드 입찰 기반 인테리어 시공업체 공정 검증 및 공정 대금 분할지급 시스템 및 그 방법**
-
 출원번호: KR-10-2025-0098033 (KIPO) 
-
 주요 내용: 시공 단계별 검증을 통한 투명한 인테리어 거래 및 대금 지급 시스템 설계 
 
 💡 **신체 데이터와 피드백 데이터를 활용한 개인 맞춤형 추천 시스템 및 방법**
-
 출원번호: KR-10-2025-0009967 (KIPO) 
-
 주요 내용: 사용자 체형 데이터와 피드백 기반의 정밀한 패션/아이템 추천 알고리즘
 
 ---
@@ -88,11 +81,10 @@
 
 <div align="center">
 
-### 🏗️ <b>INPICK (Interior Platform)</b>
+### 🏗️ [INPICK (Interior Platform)](https://github.com/Haeseong-Kwon/INPICK)
 > 소비자와 인테리어 업체를 연결하는 실시간 견적 중개 + 감리 관리 앱
 
-🛠️ Flutter 기반 **크로스플랫폼 앱 직접 개발**  
-🔧 Supabase + REST API로 백엔드 구성 (RLS, 트랜잭션 포함)  
+🛠️ Flutter 기반 **크로스플랫폼 앱 직접 개발** 🔧 Supabase + REST API로 백엔드 구성 (RLS, 트랜잭션 포함)  
 💰 계약, 시공단계, 중금 지불 흐름을 포함한 **보증형 거래 시스템 설계**
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
@@ -100,7 +92,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
 
-🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/INPICK) | [기획 문서](#)
 
 </div>
 
@@ -108,18 +100,16 @@
 
 <div align="center">
 
-### 🚁 <b>GUARDION (드론 상태 대시보드 앱)</b>
+### 🚁 [GUARDION (드론 상태 대시보드 앱)](https://github.com/Haeseong-Kwon/GUARDION)
 > 실시간 드론 상태 데이터(온도, 센서 등)를 시각화하는 모니터링 시스템
 
-🖥️ Flutter 기반 **프론트엔드 개발 담당**  
-📡 실시간 API 연동을 통해 **온도/속도/센서 상태를 시각화**  
-📋 장치 목록 조회, 통합 데이터 상세, 알림 상세 화면 구현
+🖥️ Flutter 기반 **프론트엔드 개발 담당** 📡 실시간 API 연동을 통해 **온도/속도/센서 상태를 시각화** 📋 장치 목록 조회, 통합 데이터 상세, 알림 상세 화면 구현
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/API_Integration-000000?style=flat"/>
 <img src="https://img.shields.io/badge/Team_Collaboration-Git?style=flat&logo=git&logoColor=white"/>
 
-🔗 <a href="#">기획 문서</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">API 연동 구조도</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/GUARDION) | [API 연동 구조도](#)
 
 </div>
 
@@ -127,8 +117,10 @@
 
 <div align="center">
 
-### 🧩 <b>MetaSurface Designer (메타표면 설계 웹앱)</b>
+### 🧩 [MetaSurface Designer (메타표면 설계 웹앱)](https://github.com/Haeseong-Kwon/MetaSurface-Designer)
 > 목표 성능(파장/NA/초점거리/PSF 등)을 입력하면 메타표면(phase map/파라미터)을 자동 설계하고 결과를 시각화하는 Inverse Design 제품
+
+
 
 ⚡ 설계 프리셋(메타렌즈/빔 스티어링) + 결과 리포트(오차/효율/수렴 그래프) 자동 생성  
 🧠 Surrogate Model 기반 빠른 탐색 + Gradient-based 최적화 지원  
@@ -141,7 +133,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
-🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기술 문서</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/MetaSurface-Designer) | [기술 문서](#)
 
 </div>
 
@@ -149,7 +141,7 @@
 
 <div align="center">
 
-### 🧱 <b>Meta-Atom Dataset Factory (시뮬 데이터셋 생성/관리 플랫폼)</b>
+### 🧱 [Meta-Atom Dataset Factory (시뮬 데이터셋 생성/관리 플랫폼)](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory)
 > 메타-아톰 파라미터 sweep → 결과 수집/정제/검증 → 학습용 데이터셋을 “제품처럼” 만드는 연구 생산성 도구
 
 🧪 Job Queue 기반 시뮬 실행/실패 재시도/버전 관리  
@@ -163,7 +155,7 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
-🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">아키텍처</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory) | [아키텍처](#)
 
 </div>
 
@@ -171,8 +163,10 @@
 
 <div align="center">
 
-### 🌊 <b>PINN WaveLab (Physics-Informed Neural Network 실험 플랫폼)</b>
+### 🌊 [PINN WaveLab (Physics-Informed Neural Network 실험 플랫폼)](https://github.com/Haeseong-Kwon/PINN-WaveLab)
 > PDE 제약 기반으로 2D 파동/전자기 문제를 학습하고, 기준해 대비 오차/학습 안정성을 인터랙티브하게 검증하는 웹 실험실
+
+
 
 🎛️ 경계조건/소스/재료상수 슬라이더로 실험 파라미터 조절  
 🧠 Loss term ablation(경계/물리항 on/off) + 결과 heatmap/오차맵 자동 시각화  
@@ -185,7 +179,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
-🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">실험 리포트</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/PINN-WaveLab) | [실험 리포트](#)
 
 </div>
 
@@ -193,7 +187,7 @@
 
 <div align="center">
 
-### 🧼 <b>Optics Restoration Studio (광학/센서 기반 이미지 복원 제품)</b>
+### 🧼 [Optics Restoration Studio (광학/센서 기반 이미지 복원 제품)](https://github.com/Haeseong-Kwon/Optics-Restoration-Studio)
 > 광학 블러/수차/센서 노이즈(shot/read) 모델을 선택하면 자동으로 복원 모델을 적용하고 정량 지표와 전/후 비교를 제공하는 복원 스튜디오
 
 📷 RAW/저조도/모션블러 모드 + 전/후 비교 뷰어  
@@ -207,7 +201,7 @@
 <img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
-🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">결과 샘플</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/Optics-Restoration-Studio) | [결과 샘플](#)
 
 </div>
 
@@ -215,7 +209,7 @@
 
 <div align="center">
 
-### 🧪 <b>CMOS Sensor Health Dashboard (센서 결함/노이즈 진단 대시보드)</b>
+### 🧪 [CMOS Sensor Health Dashboard (센서 결함/노이즈 진단 대시보드)](https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard)
 > 센서 프레임/로그를 업로드하면 핫픽셀/고정패턴노이즈/라인 결함 등을 자동 탐지하고 리포트화하는 QA형 제품
 
 🧠 결함 탐지 모델 + 통계 기반 품질 지표 자동 산출  
@@ -229,7 +223,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Visualization-9F86C0?style=flat"/>
 
-🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">리포트 샘플</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard) | [리포트 샘플](#)
 
 </div>
 
@@ -237,7 +231,7 @@
 
 <div align="center">
 
-### 🕶️ <b>AR/VR Display Calibrator (디스플레이 보정 도구)</b>
+### 🕶️ [AR/VR Display Calibrator (디스플레이 보정 도구)](https://github.com/Haeseong-Kwon/AR-VR-Display-Calibrator)
 > 캘리브레이션 패턴 촬영 → 왜곡/색수차/수차를 추정해 보정 LUT/파라미터를 생성하는 AR/VR 디스플레이 보정 제품
 
 🎯 기기 프로필 저장 + 전/후 비교  
@@ -250,7 +244,7 @@
 <img src="https://img.shields.io/badge/Optimization-FFB703?style=flat"/>
 <img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
 
-🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기술 문서</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/AR-VR-Display-Calibrator) | [기술 문서](#)
 
 </div>
 
@@ -258,7 +252,7 @@
 
 <div align="center">
 
-### 📈 <b>Photonics Experiment Log Analyzer (측정 데이터 분석 SaaS)</b>
+### 📈 [Photonics Experiment Log Analyzer (측정 데이터 분석 SaaS)](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer)
 > 분광/스펙트럼/실험 로그를 업로드하면 피크 탐지·피팅·분류·이상치를 자동 리포팅하는 실험 데이터 분석 제품
 
 🔍 자동 피크 탐지/피팅 모델 선택 + 실험 세션 관리  
@@ -272,7 +266,7 @@
 <img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
 <img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
 
-🔗 <a href="#">시연 링크</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">리포트 샘플</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer) | [리포트 샘플](#)
 
 </div>
 
@@ -280,8 +274,10 @@
 
 <div align="center">
 
-### ☀️ <b>Solar Cell Curve Intelligence (IV Curve 분석/최적화)</b>
+### ☀️ [Solar Cell Curve Intelligence (IV Curve 분석/최적화)](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence)
 > IV curve/환경 파라미터로 효율을 추정하고 원인 분석 및 개선 액션을 추천하는 태양전지 분석/최적화 제품
+
+
 
 📉 곡선 클러스터링 + 결함 유형 분류 + 성능 예측  
 🧠 최적화 기반 추천(공정/재료/구조 방향)  
@@ -293,7 +289,7 @@
 <img src="https://img.shields.io/badge/Optimization-FFB703?style=flat"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 
-🔗 <a href="#">시연 리포트</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence) | [기획 문서](#)
 
 </div>
 
@@ -301,8 +297,10 @@
 
 <div align="center">
 
-### 🧠 <b>Brain MRI Assist (뇌 MRI 분석 웹뷰어)</b>
+### 🧠 [Brain MRI Assist (뇌 MRI 분석 웹뷰어)](https://github.com/Haeseong-Kwon/Brain-MRI-Assist)
 > MRI 업로드 → 세그/분류 결과를 오버레이로 보여주고, 자동 요약 리포트를 생성하는 Biomedical AI 제품
+
+
 
 🧬 세그멘테이션(U-Net 등) / 분류 모델 + 신뢰도 제공  
 🖼️ 슬라이스 뷰어 + 결과 오버레이 + 케이스 저장/비교  
@@ -314,7 +312,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/DICOM/NIfTI-000000?style=flat"/>
 
-🔗 <a href="#">시연 데모</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">결과 샘플</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/Brain-MRI-Assist) | [결과 샘플](#)
 
 </div>
 
@@ -322,7 +320,7 @@
 
 <div align="center">
 
-### 🧫 <b>Medical GenAI Augmentor (의료 데이터 증강 파이프라인)</b>
+### 🧫 [Medical GenAI Augmentor (의료 데이터 증강 파이프라인)](https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor)
 > 데이터 부족/불균형을 해결하기 위한 조건부 생성(증강) → 품질 필터링 → 성능 전/후 리포트까지 묶은 생성형AI 제품
 
 🪄 생성 샘플 품질 자동 필터링 + 다양성/유사도 지표  
@@ -335,7 +333,7 @@
 <img src="https://img.shields.io/badge/Make-A543F4?style=flat&logo=make&logoColor=white"/>
 <img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
 
-🔗 <a href="#">시연 영상</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">실험 리포트</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor) | [실험 리포트](#)
 
 </div>
 
@@ -343,7 +341,7 @@
 
 <div align="center">
 
-### 🧷 <b>Metasurface Process Yield Predictor (메타표면 공정 수율 예측)</b>
+### 🧷 [Metasurface Process Yield Predictor (메타표면 공정 수율 예측)](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor)
 > 공정 파라미터/측정 지표를 기반으로 수율 저하 원인을 예측하고, 개선 액션을 추천하는 메타표면 공정 분석 제품
 
 📌 공정 조건(치수 편차/두께/리소그래피 오차 등) → 성능 저하 패턴 학습  
@@ -356,7 +354,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
 
-🔗 <a href="#">시연 리포트</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">기획 문서</a>
+🔗 [Repository](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor) | [기획 문서](#)
 
 </div>
 
@@ -405,20 +403,15 @@
 
 ## 💡 종합 역량 요약 (Skills Gained Through Projects)
 
-- ✅ **현실 적용력**  
- 실제 사업(쇼핑몰, 전자책 운영 등) 경험을 개발 프로젝트에 반영 → 서비스에 필요한 기능을 실제 관점에서 구현
+- ✅ **현실 적용력**  실제 사업(쇼핑몰, 전자책 운영 등) 경험을 개발 프로젝트에 반영 → 서비스에 필요한 기능을 실제 관점에서 구현
 
-- 🔧 **기획–설계–개발까지 전 과정 수행 능력**  
- 아이디어 발굴 → 화면 구성 → API 설계 → 배포까지 독립적으로 수행할 수 있는 풀사이클 역량 확보
+- 🔧 **기획–설계–개발까지 전 과정 수행 능력**  아이디어 발굴 → 화면 구성 → API 설계 → 배포까지 독립적으로 수행할 수 있는 풀사이클 역량 확보
 
-- 🧠 **AI 기술의 실전 적용 감각**  
- ML/DL/생성형AI 모델을 앱/웹 시스템과 연결하여 **기능 단위로 통합 적용**할 수 있는 능력
+- 🧠 **AI 기술의 실전 적용 감각**  ML/DL/생성형AI 모델을 앱/웹 시스템과 연결하여 **기능 단위로 통합 적용**할 수 있는 능력
 
-- 🧩 **풀스택 개발 + 자동화 흐름 이해도**  
- 단순 코드 구현이 아닌 데이터 흐름, 역할 분리, 상태 동기화, API 설계 등 구조적 사고 기반 개발 역량 보유
+- 🧩 **풀스택 개발 + 자동화 흐름 이해도**  단순 코드 구현이 아닌 데이터 흐름, 역할 분리, 상태 동기화, API 설계 등 구조적 사고 기반 개발 역량 보유
 
-- 🚧 **실제 문제 해결과 리팩토링 경험**  
- 플랫폼 충돌, 인증 문제, 데이터 동기화 이슈 등을 직접 해결하며 **안정적인 서비스 구동 환경 구성**
+- 🚧 **실제 문제 해결과 리팩토링 경험**  플랫폼 충돌, 인증 문제, 데이터 동기화 이슈 등을 직접 해결하며 **안정적인 서비스 구동 환경 구성**
 
 ---
 
@@ -470,7 +463,7 @@
 
 ## 📫 Contact
 
-- 📧 **Email**: damage555@hanyang.ac.kr  
+- 📧 **Email**: damage555@hanyang.ac.kr
 - 🐙 **GitHub**: [https://github.com/Haeseong-Kwon](https://github.com/Haeseong-Kwon)  
 - 📓 **Portfolio**: [Notion 포트폴리오 바로가기](https://your-notion-link)  
 - 📝 **GitHub Blog**: [https://holycrap6666.github.io](https://holycrap6666.github.io)
