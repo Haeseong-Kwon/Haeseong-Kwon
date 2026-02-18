@@ -35,7 +35,7 @@
 
 ### 🚀 **Technical Leadership & Foundership**
 * **Service Launch & Platform Strategy**
-    * 통합 개발 플랫폼 **'AOP'** 기획 및 **Kmell** 서비스 런칭 프로세스 주도
+    * 통합 개발 플랫폼 **'AOP'** 기획 및 외주 서비스 런칭 프로세스 주도
     * 마케팅 에이전시 **'GrowingUp'** 및 산업 플랫폼 **'Shotcrete117'** 웹 인프라 전면 현대화
 * **Intellectual Property (IP) Strategy**
     * 사용자 피드백 기반 추천 및 공정 검증 시스템 관련 **2건의 특허 출원** 완료
