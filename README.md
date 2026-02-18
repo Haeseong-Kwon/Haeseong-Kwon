@@ -7,29 +7,48 @@
 
 ## 👋 About Me
 
-- 🎯 **기획부터 배포까지 직접 구현하는 풀스택 개발자**
-- 📱 Flutter 기반의 크로스플랫폼 앱 개발 경험 (Android/iOS)
-- 🧑‍💻 React & Next.js 기반의 반응형 웹 프론트엔드 제작
-- 🔧 Supabase, Firebase, Express 등으로 백엔드 API 직접 설계 및 연동
-- 🔧 클라이언트 요청에 대응하는 **서버 구축 및 RESTful API 설계/개발 가능**
-- 🔄 Make, n8n 등 **AI + 자동화 워크플로우 설계 능력 보유**
-- 🚀 배포부터 유지보수까지 **서비스 운영 경험과 성과 지향 마인드** 보유
+* 🚀 **Full-Cycle Full-Stack Developer**
+    * 서비스 기획, UI/UX 설계, 백엔드 아키텍처 구축, 클라우드 배포 및 유지보수 전 과정 직접 수행
+    * **Next.js 14**, **FastAPI**, **Node.js** 기반의 엔드투엔드(E2E) 시스템 설계 및 최적화 역량 보유
+    * **Supabase** 및 **PostgreSQL**을 활용한 8개 이상의 실전 프로젝트 DB 스택 구축 및 운영
+
+* 🧠 **Applied AI Research Engineer**
+    * **PINN(Physics-Informed Neural Networks)** 기반의 물리 법칙 통합형 딥러닝 모델 설계 및 실험
+    * 의료(Brain MRI), 반도체(CMOS Sensor), 광학(Metasurface) 도메인 특화 AI 파이프라인 독자 구축
+    * **PyTorch** 및 **MPS(Metal Performance Shaders)** 가속을 활용한 고성능 추론 엔진 최적화
+
+* 🤖 **Intelligent Workflow & Agentic Architect**
+    * **LLM API**와 **n8n/Make**를 연동한 지능형 에이전트 및 비즈니스 자동화 워크플로우 설계
+    * 비정형 실험 로그 파싱 및 데이터 자산화를 위한 자동화 파이프라인 구축
+
+* 📱 **System Monitoring & Mobile Engineering**
+    * **Flutter & Dart** 기반의 실시간 하드웨어 데이터 시각화 및 산업용 관제 앱 개발
+    * 실시간 API 통신 및 복잡한 상태 관리를 포함한 크로스플랫폼 솔루션 구현
+
+* 🎓 **Academic Foundation**
+    * **한양대학교 컴퓨터소프트웨어학부** 전공 (Computer Science & Engineering)
+    * 전산학 기초 및 알고리즘 최적화 역량을 기반으로 한 공학적 문제 해결 능력 보유
 
 ---
 
-## 💼 Business Experience
-- 🔧 **개발과 비즈니스를 잇는, 주도적인 개발자**
+## 💼 Business & Strategic Experience
 
-- 🛍️ **N사 스마트스토어 '오스타몰k' 개설 및 운영 경험** 매출 0원에서 시작해 **3개월 내 파워등급 달성** 상품 소싱, 상세페이지 제작, 키워드 마케팅, 고객 응대 등  
-  **이커머스 전 과정**을 직접 설계·운영하며 매출 성장 경험 축적
+### 🚀 **Technical Leadership & Foundership**
+* **Service Launch & Platform Strategy**
+    * 통합 개발 플랫폼 **'AOP'** 기획 및 **Kmell** 서비스 런칭 프로세스 주도
+    * 마케팅 에이전시 **'GrowingUp'** 및 산업 플랫폼 **'Shotcrete117'** 웹 인프라 전면 현대화
+* **Intellectual Property (IP) Strategy**
+    * 사용자 피드백 기반 추천 및 공정 검증 시스템 관련 **2건의 특허 출원** 완료
+* **Full-Cycle Freelance Management**
+    * 기획부터 세무 행정까지 비즈니스 전 과정을 독립적으로 수행하는 1인 개발 환경 운용
 
-- 📘 **전자책 분야 와디즈 펀딩 프로젝트 성공 경험** ① 프로젝트 1 지식창업 분야 : 달성률 **1200%** – 콘텐츠 기획과 SNS 광고 최적화 주도  
-  ② 프로젝트 2 AI활용 분야 : 달성률 **3000%** – 유입 동선 분석 및 랜딩페이지 전략으로 최적화  
-  👉 기획–제작–운영–성과 분석까지 **A to Z 직접 수행**
-
-- 🚀 이러한 경험을 바탕으로 **MVP 제작, 실전 마케팅, 운영 자동화**까지  
-  **개발을 넘어 실제 수익을 창출할 수 있는 서비스 설계 및 기획과 운영 역량**을 보유.
-
+### 📈 **Market Validation & Growth**
+* **Data-Driven E-commerce Operation**
+    * **'오스타몰k'** 운영 3개월 내 **파워 등급** 달성을 통한 데이터 기반 시장 대응 역량 입증
+* **Crowdfunding Success Record**
+    * 와디즈 지식 서비스 및 AI 프로젝트 연속 성공 (달성률 **1200%**, **3000%**)
+    * 시장 수요 기반의 MVP 기획 및 타겟 마케팅 최적화 프로세스 정립
+ 
 ---
 
 ## 🛠️ Tech Stack
