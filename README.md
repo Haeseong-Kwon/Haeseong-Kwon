@@ -26,8 +26,8 @@
     * 실시간 API 통신 및 복잡한 상태 관리를 포함한 크로스플랫폼 솔루션 구현
 
 * 🎓 **Academic Foundation**
-    * **한양대학교 컴퓨터소프트웨어학부** 전공 (Computer Science & Engineering)
-    * 전산학 기초 및 알고리즘 최적화 역량을 기반으로 한 공학적 문제 해결 능력 보유
+    * **한양대학교 ERICA 컴퓨터학부** 전공 (Computer Science & Engineering)
+    * 전산학 및 알고리즘 최적화 역량을 기반으로 한 공학적 문제 해결 능력 보유
 
 ---
 
@@ -100,46 +100,10 @@
 
 <div align="center">
 
-### 🏗️ [INPICK (Interior Platform)](https://github.com/Haeseong-Kwon/INPICK)
-> 소비자와 인테리어 업체를 연결하는 실시간 견적 중개 + 감리 관리 앱
-
-🛠️ Flutter 기반 **크로스플랫폼 앱 직접 개발** 🔧 Supabase + REST API로 백엔드 구성 (RLS, 트랜잭션 포함)  
-💰 계약, 시공단계, 중금 지불 흐름을 포함한 **보증형 거래 시스템 설계**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
-
-🔗 [Repository](https://github.com/Haeseong-Kwon/INPICK) | [기획 문서](#)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚁 [GUARDION (드론 상태 대시보드 앱)](https://github.com/Haeseong-Kwon/GUARDION)
-> 실시간 드론 상태 데이터(온도, 센서 등)를 시각화하는 모니터링 시스템
-
-🖥️ Flutter 기반 **프론트엔드 개발 담당** 📡 실시간 API 연동을 통해 **온도/속도/센서 상태를 시각화** 📋 장치 목록 조회, 통합 데이터 상세, 알림 상세 화면 구현
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Integration-000000?style=flat"/>
-<img src="https://img.shields.io/badge/Team_Collaboration-Git?style=flat&logo=git&logoColor=white"/>
-
-🔗 [Repository](https://github.com/Haeseong-Kwon/GUARDION) | [API 연동 구조도](#)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🧩 [MetaSurface Designer (메타표면 설계 웹앱)](https://github.com/Haeseong-Kwon/MetaSurface-Designer)
 > 목표 성능(파장/NA/초점거리/PSF 등)을 입력하면 메타표면(phase map/파라미터)을 자동 설계하고 결과를 시각화하는 Inverse Design 제품
 
-
+<img src="docs/metasurface_designer_demo.gif" width="700" alt="MetaSurface Designer Demo">
 
 ⚡ 설계 프리셋(메타렌즈/빔 스티어링) + 결과 리포트(오차/효율/수렴 그래프) 자동 생성  
 🧠 Surrogate Model 기반 빠른 탐색 + Gradient-based 최적화 지원  
@@ -160,8 +124,33 @@
 
 <div align="center">
 
+### 🧷 [Metasurface Process Yield Predictor (메타표면 공정 수율 예측)](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor)
+> 공정 파라미터/측정 지표를 기반으로 수율 저하 원인을 예측하고, 개선 액션을 추천하는 메타표면 공정 분석 제품
+
+<img src="docs/yield_predictor_demo.gif" width="700" alt="Process Yield Predictor Demo">
+
+📌 공정 조건(치수 편차/두께/리소그래피 오차 등) → 성능 저하 패턴 학습  
+📈 수율 예측 + 원인 중요도(Feature importance) 시각화  
+🧪 실험 케이스 저장/비교 + 리포트 자동 생성
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
+
+🔗 [Repository](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor) | [기획 문서](#)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🧱 [Meta-Atom Dataset Factory (시뮬 데이터셋 생성/관리 플랫폼)](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory)
 > 메타-아톰 파라미터 sweep → 결과 수집/정제/검증 → 학습용 데이터셋을 “제품처럼” 만드는 연구 생산성 도구
+
+<img src="docs/dataset_factory_demo.gif" width="700" alt="Dataset Factory Demo">
 
 🧪 Job Queue 기반 시뮬 실행/실패 재시도/버전 관리  
 📦 데이터셋 카드(분포/커버리지/품질지표) 자동 생성 + 다운로드/공유  
@@ -182,10 +171,31 @@
 
 <div align="center">
 
+### 🧠 [Brain MRI Assist (뇌 MRI 분석 웹뷰어)](https://github.com/Haeseong-Kwon/Brain-MRI-Assist)
+> MRI 업로드 → 세그/분류 결과를 오버레이로 보여주고, 자동 요약 리포트를 생성하는 Biomedical AI 제품
+
+<img src="docs/demo.gif" width="700" alt="Brain MRI Assist Demo">
+
+🧬 세그멘테이션(U-Net 등) / 분류 모델 + 신뢰도 제공  
+🖼️ 슬라이스 뷰어 + 결과 오버레이 + 케이스 저장/비교  
+📄 결과 요약 리포트(PDF) + 추론 API 제공
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DICOM/NIfTI-000000?style=flat"/>
+
+🔗 [Repository](https://github.com/Haeseong-Kwon/Brain-MRI-Assist) | [결과 샘플](#)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🌊 [PINN WaveLab (Physics-Informed Neural Network 실험 플랫폼)](https://github.com/Haeseong-Kwon/PINN-WaveLab)
 > PDE 제약 기반으로 2D 파동/전자기 문제를 학습하고, 기준해 대비 오차/학습 안정성을 인터랙티브하게 검증하는 웹 실험실
-
-
 
 🎛️ 경계조건/소스/재료상수 슬라이더로 실험 파라미터 조절  
 🧠 Loss term ablation(경계/물리항 on/off) + 결과 heatmap/오차맵 자동 시각화  
@@ -296,8 +306,6 @@
 ### ☀️ [Solar Cell Curve Intelligence (IV Curve 분석/최적화)](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence)
 > IV curve/환경 파라미터로 효율을 추정하고 원인 분석 및 개선 액션을 추천하는 태양전지 분석/최적화 제품
 
-
-
 📉 곡선 클러스터링 + 결함 유형 분류 + 성능 예측  
 🧠 최적화 기반 추천(공정/재료/구조 방향)  
 📊 실험 히스토리 관리 + 결과 대시보드 제공
@@ -309,29 +317,6 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 
 🔗 [Repository](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence) | [기획 문서](#)
-
-</div>
-
----
-
-<div align="center">
-
-### 🧠 [Brain MRI Assist (뇌 MRI 분석 웹뷰어)](https://github.com/Haeseong-Kwon/Brain-MRI-Assist)
-> MRI 업로드 → 세그/분류 결과를 오버레이로 보여주고, 자동 요약 리포트를 생성하는 Biomedical AI 제품
-
-
-
-🧬 세그멘테이션(U-Net 등) / 분류 모델 + 신뢰도 제공  
-🖼️ 슬라이스 뷰어 + 결과 오버레이 + 케이스 저장/비교  
-📄 결과 요약 리포트(PDF) + 추론 API 제공
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/DICOM/NIfTI-000000?style=flat"/>
-
-🔗 [Repository](https://github.com/Haeseong-Kwon/Brain-MRI-Assist) | [결과 샘플](#)
 
 </div>
 
@@ -360,121 +345,35 @@
 
 <div align="center">
 
-### 🧷 [Metasurface Process Yield Predictor (메타표면 공정 수율 예측)](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor)
-> 공정 파라미터/측정 지표를 기반으로 수율 저하 원인을 예측하고, 개선 액션을 추천하는 메타표면 공정 분석 제품
+### 🏗️ [INPICK (Interior Platform)](https://github.com/Haeseong-Kwon/INPICK)
+> 소비자와 인테리어 업체를 연결하는 실시간 견적 중개 + 감리 관리 앱
 
-📌 공정 조건(치수 편차/두께/리소그래피 오차 등) → 성능 저하 패턴 학습  
-📈 수율 예측 + 원인 중요도(Feature importance) 시각화  
-🧪 실험 케이스 저장/비교 + 리포트 자동 생성
+🛠️ Flutter 기반 **크로스플랫폼 앱 직접 개발** 🔧 Supabase + REST API로 백엔드 구성 (RLS, 트랜잭션 포함)  
+💰 계약, 시공단계, 중금 지불 흐름을 포함한 **보증형 거래 시스템 설계**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor) | [기획 문서](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/INPICK) | [기획 문서](#)
 
 </div>
 
 ---
 
-## 🚀 개발 경험 요약 (Experience Highlights)
-
-### 📱 앱 개발 프로젝트
-
-| 프로젝트 | 주요 내용 | 활용 기술 |
-|:----------|:-----------|:-----------|
-| INPICK | 실시간 견적 중개 + 감리 관리 앱 | Flutter, Supabase, REST API |
-| GUARDION App | 드론 상태 데이터 시각화 앱 | Flutter, 실시간 API |
-
-→ Flutter 기반의 앱 전체 구조 설계 경험을 통해 **상태관리, 실시간 API 연동, 사용자 권한 구분** 등의 앱 설계 역량을 키움
-
----
-
-### 🌐 웹 풀스택 프로젝트
-
-| 프로젝트 | 주요 내용 | 활용 기술 |
-|:----------|:-----------|:-----------|
-| MetaSurface Designer | 메타표면 inverse design 웹앱 | Next.js, FastAPI, PyTorch |
-| Meta-Atom Dataset Factory | 메타-아톰 데이터셋 생성/관리 | Next.js, Node.js, Redis, Supabase |
-| PINN WaveLab | PINN 기반 PDE/EM 실험 플랫폼 | Next.js, FastAPI, PyTorch |
-| Optics Restoration Studio | 광학/센서 이미지 복원 제품 | Next.js, PyTorch, OpenCV |
-| CMOS Sensor Health Dashboard | 센서 결함/노이즈 QA 대시보드 | Next.js, FastAPI, PostgreSQL |
-| Brain MRI Assist | 의료영상 분석 웹뷰어 | Next.js, FastAPI, PyTorch |
-
-→ 단순 프론트 구현이 아닌 **UI/UX + 데이터 흐름 + API 연동까지 포함한 풀스택 구조 설계 경험 보유**
-
----
-
-### 🤖 AI / 자동화 프로젝트
-
-| 프로젝트 | 주요 내용 | 활용 기술 |
-|:----------|:-----------|:-----------|
-| Photonics Experiment Log Analyzer | 실험 로그 자동 분석/리포트 | Pandas, scikit-learn, Supabase |
-| Solar Cell Curve Intelligence | IV curve 분석/최적화 | Python, scikit-learn |
-| Medical GenAI Augmentor | 의료 데이터 증강 파이프라인 | PyTorch, Hugging Face, n8n |
-| Metasurface Process Yield Predictor | 공정 수율 예측/원인 분석 | Python, scikit-learn |
-
-→ **AI 모델 실용화**를 위한 데이터 전처리, 학습, API화까지 **E2E 구조 설계 및 적용 역량 확보**
-
----
-
-## 💡 종합 역량 요약 (Skills Gained Through Projects)
-
-- ✅ **현실 적용력**  실제 사업(쇼핑몰, 전자책 운영 등) 경험을 개발 프로젝트에 반영 → 서비스에 필요한 기능을 실제 관점에서 구현
-
-- 🔧 **기획–설계–개발까지 전 과정 수행 능력**  아이디어 발굴 → 화면 구성 → API 설계 → 배포까지 독립적으로 수행할 수 있는 풀사이클 역량 확보
-
-- 🧠 **AI 기술의 실전 적용 감각**  ML/DL/생성형AI 모델을 앱/웹 시스템과 연결하여 **기능 단위로 통합 적용**할 수 있는 능력
-
-- 🧩 **풀스택 개발 + 자동화 흐름 이해도**  단순 코드 구현이 아닌 데이터 흐름, 역할 분리, 상태 동기화, API 설계 등 구조적 사고 기반 개발 역량 보유
-
-- 🚧 **실제 문제 해결과 리팩토링 경험**  플랫폼 충돌, 인증 문제, 데이터 동기화 이슈 등을 직접 해결하며 **안정적인 서비스 구동 환경 구성**
-
----
-
-## 📈 Interests
-
 <div align="center">
 
-<table>
-  <tr>
-    <td>🚀</td>
-    <td><strong>IT 기반 서비스 기획 및 런칭</strong><br/>
-    단순 개발을 넘어 시장 타겟, 페르소나, 경쟁 포지셔닝까지 고려한 서비스 설계에 관심이 많습니다.<br/>
-    실제 전자책/쇼핑몰/앱 프로젝트를 직접 기획–개발–출시한 경험을 보유하고 있습니다.
-    </td>
-  </tr>
-  <tr>
-    <td>🎨</td>
-    <td><strong>사용자 경험 기반 UI/UX 설계</strong><br/>
-    Figma 등 디자인 툴을 활용해 직관적인 인터페이스를 구성하고, 반응형 웹 및 앱에 반영합니다.<br/>
-    사용자 유형에 따른 라우팅 구조, 관리자/고객/공급자 등 역할 분리를 중요하게 여깁니다.
-    </td>
-  </tr>
-  <tr>
-    <td>🧠</td>
-    <td><strong>AI 기술의 실제 활용 및 자동화</strong><br/>
-    GPT, ML, DL 등 다양한 AI 모델을 실제 서비스에 녹여내는 것에 관심이 많습니다.<br/>
-    자동화 워크플로우(Make, n8n)와 연계한 AI 기능 기획 및 API 설계에 강점을 가지고 있습니다.
-    </td>
-  </tr>
-  <tr>
-    <td>💼</td>
-    <td><strong>실제 비즈니스 운영 경험 기반 제품 설계</strong><br/>
-    오스타몰K(스마트스토어) 운영 경험과 와디즈 콘텐츠 펀딩 경험을 바탕으로<br/>
-    “팔리는 제품”의 구조와 “관리 가능한 시스템”의 중요성을 체감하며 제품을 설계합니다.
-    </td>
-  </tr>
-  <tr>
-    <td>📦</td>
-    <td><strong>SaaS / MVP 제작 및 빠른 검증</strong><br/>
-    아이디어를 빠르게 실현하고, 최소 기능 제품(MVP)을 만들어 반응을 검증하는 것을 중요하게 생각합니다.<br/>
-    실제로 다양한 AI 실험 도구와 관리 시스템을 SaaS 형태로 구현 중입니다.
-    </td>
-  </tr>
-</table>
+### 🚁 [GUARDION (드론 상태 대시보드 앱)](https://github.com/Haeseong-Kwon/GUARDION)
+> 실시간 드론 상태 데이터(온도, 센서 등)를 시각화하는 모니터링 시스템
+
+🖥️ Flutter 기반 **프론트엔드 개발 담당** 📡 실시간 API 연동을 통해 **온도/속도/센서 상태를 시각화** 📋 장치 목록 조회, 통합 데이터 상세, 알림 상세 화면 구현
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integration-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Team_Collaboration-Git?style=flat&logo=git&logoColor=white"/>
+
+🔗 [Repository](https://github.com/Haeseong-Kwon/GUARDION) | [API 연동 구조도](#)
 
 </div>
 
