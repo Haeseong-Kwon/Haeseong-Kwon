@@ -307,12 +307,15 @@
 🔗 [Repository](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer) | [리포트 샘플](#)
 
 </div>
+
 ---
 
 <div align="center">
 
 ### ☀️ [Solar Cell Curve Intelligence (IV Curve 분석/최적화)](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence)
 > IV curve/환경 파라미터로 효율을 추정하고 원인 분석 및 개선 액션을 추천하는 태양전지 분석/최적화 제품
+
+<img src="https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence/blob/main/solar_cell_intelligence_demo.gif?raw=true" width="700" alt="Solar Cell Curve Intelligence Demo">
 
 📉 곡선 클러스터링 + 결함 유형 분류 + 성능 예측  
 🧠 최적화 기반 추천(공정/재료/구조 방향)  
