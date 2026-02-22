@@ -291,6 +291,8 @@
 ### 📈 [Photonics Experiment Log Analyzer (측정 데이터 분석 SaaS)](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer)
 > 분광/스펙트럼/실험 로그를 업로드하면 피크 탐지·피팅·분류·이상치를 자동 리포팅하는 실험 데이터 분석 제품
 
+<img src="https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer/blob/main/photonics_log_analyzer_demo.gif?raw=true" width="700" alt="Photonics Experiment Log Analyzer Demo">
+
 🔍 자동 피크 탐지/피팅 모델 선택 + 실험 세션 관리  
 📊 결과 공유 링크 + PDF 리포트 자동 생성  
 🔌 다양한 측정 포맷(CSV 등) 확장형 파서 구조
@@ -305,7 +307,6 @@
 🔗 [Repository](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer) | [리포트 샘플](#)
 
 </div>
-
 ---
 
 <div align="center">
