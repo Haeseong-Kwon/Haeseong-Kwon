@@ -197,6 +197,8 @@
 ### 🌊 [PINN WaveLab (Physics-Informed Neural Network 실험 플랫폼)](https://github.com/Haeseong-Kwon/PINN-WaveLab)
 > PDE 제약 기반으로 2D 파동/전자기 문제를 학습하고, 기준해 대비 오차/학습 안정성을 인터랙티브하게 검증하는 웹 실험실
 
+<img src="https://github.com/Haeseong-Kwon/PINN-WaveLab/blob/main/pinn_wavelab_demo.gif?raw=true" width="700" alt="PINN WaveLab Demo">
+
 🎛️ 경계조건/소스/재료상수 슬라이더로 실험 파라미터 조절  
 🧠 Loss term ablation(경계/물리항 on/off) + 결과 heatmap/오차맵 자동 시각화  
 📊 학습 곡선/리포트 자동 생성 + 실험 히스토리 저장
