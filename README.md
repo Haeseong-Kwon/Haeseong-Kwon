@@ -167,6 +167,7 @@
 🔗 [Repository](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory) | [아키텍처](#)
 
 </div>
+
 ---
 
 <div align="center">
@@ -174,7 +175,7 @@
 ### 🧠 [Brain MRI Assist (뇌 MRI 분석 웹뷰어)](https://github.com/Haeseong-Kwon/Brain-MRI-Assist)
 > MRI 업로드 → 세그/분류 결과를 오버레이로 보여주고, 자동 요약 리포트를 생성하는 Biomedical AI 제품
 
-<img src="docs/demo.gif" width="700" alt="Brain MRI Assist Demo">
+<img src="https://github.com/Haeseong-Kwon/Brain-MRI-Assist/blob/main/brain_mri_assist_demo.gif?raw=true" width="700" alt="Brain MRI Assist Demo">
 
 🧬 세그멘테이션(U-Net 등) / 분류 모델 + 신뢰도 제공  
 🖼️ 슬라이스 뷰어 + 결과 오버레이 + 케이스 저장/비교  
