@@ -128,7 +128,7 @@
 ### 🧷 [Metasurface Process Yield Predictor (메타표면 공정 수율 예측)](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor)
 > 공정 파라미터/측정 지표를 기반으로 수율 저하 원인을 예측하고, 개선 액션을 추천하는 메타표면 공정 분석 제품
 
-<img src="docs/yield_predictor_demo.gif" width="700" alt="Process Yield Predictor Demo">
+<img src="https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor/blob/main/docs/yield_predictor_demo.gif?raw=true" width="700" alt="Process Yield Predictor Demo">
 
 📌 공정 조건(치수 편차/두께/리소그래피 오차 등) → 성능 저하 패턴 학습  
 📈 수율 예측 + 원인 중요도(Feature importance) 시각화  
