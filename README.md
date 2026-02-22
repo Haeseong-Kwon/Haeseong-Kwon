@@ -268,6 +268,8 @@
 ### 🕶️ [AR/VR Display Calibrator (디스플레이 보정 도구)](https://github.com/Haeseong-Kwon/AR-VR-Display-Calibrator)
 > 캘리브레이션 패턴 촬영 → 왜곡/색수차/수차를 추정해 보정 LUT/파라미터를 생성하는 AR/VR 디스플레이 보정 제품
 
+<img src="https://github.com/Haeseong-Kwon/AR-VR-Display-Calibrator/blob/main/ar_vr_calibrator_demo.gif?raw=true" width="700" alt="AR/VR Display Calibrator Demo">
+
 🎯 기기 프로필 저장 + 전/후 비교  
 🧠 최적화 기반 파라미터 추정 + 보정값 Export(LUT/JSON)  
 📱 모바일 촬영 입력 지원을 고려한 UX 설계
