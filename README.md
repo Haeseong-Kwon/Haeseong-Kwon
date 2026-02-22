@@ -94,6 +94,8 @@
 
 ---
 
+---
+
 ## 🧪 Projects
 
 <br>
@@ -103,7 +105,7 @@
 ### 🧩 [MetaSurface Designer (메타표면 설계 웹앱)](https://github.com/Haeseong-Kwon/MetaSurface-Designer)
 > 목표 성능(파장/NA/초점거리/PSF 등)을 입력하면 메타표면(phase map/파라미터)을 자동 설계하고 결과를 시각화하는 Inverse Design 제품
 
-<img src="docs/metasurface_designer_demo.gif" width="700" alt="MetaSurface Designer Demo">
+<img src="https://github.com/Haeseong-Kwon/Metasurface-Designer/blob/main/metasurface_demo.webp?raw=true" width="700" alt="MetaSurface Designer Demo">
 
 ⚡ 설계 프리셋(메타렌즈/빔 스티어링) + 결과 리포트(오차/효율/수렴 그래프) 자동 생성  
 🧠 Surrogate Model 기반 빠른 탐색 + Gradient-based 최적화 지원  
@@ -119,7 +121,6 @@
 🔗 [Repository](https://github.com/Haeseong-Kwon/MetaSurface-Designer) | [기술 문서](#)
 
 </div>
-
 ---
 
 <div align="center">
