@@ -151,7 +151,7 @@
 ### 🧱 [Meta-Atom Dataset Factory (시뮬 데이터셋 생성/관리 플랫폼)](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory)
 > 메타-아톰 파라미터 sweep → 결과 수집/정제/검증 → 학습용 데이터셋을 “제품처럼” 만드는 연구 생산성 도구
 
-<img src="docs/dataset_factory_demo.gif" width="700" alt="Dataset Factory Demo">
+<img src="https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory/blob/main/dataset_factory_demo.webp?raw=true" width="700" alt="Dataset Factory Demo">
 
 🧪 Job Queue 기반 시뮬 실행/실패 재시도/버전 관리  
 📦 데이터셋 카드(분포/커버리지/품질지표) 자동 생성 + 다운로드/공유  
@@ -167,7 +167,6 @@
 🔗 [Repository](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory) | [아키텍처](#)
 
 </div>
-
 ---
 
 <div align="center">
