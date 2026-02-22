@@ -94,8 +94,6 @@
 
 ---
 
----
-
 ## 🧪 Projects
 
 <br>
@@ -121,6 +119,7 @@
 🔗 [Repository](https://github.com/Haeseong-Kwon/MetaSurface-Designer) | [기술 문서](#)
 
 </div>
+
 ---
 
 <div align="center">
