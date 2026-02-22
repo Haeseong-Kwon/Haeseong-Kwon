@@ -220,6 +220,8 @@
 ### 🧼 [Optics Restoration Studio (광학/센서 기반 이미지 복원 제품)](https://github.com/Haeseong-Kwon/Optics-Restoration-Studio)
 > 광학 블러/수차/센서 노이즈(shot/read) 모델을 선택하면 자동으로 복원 모델을 적용하고 정량 지표와 전/후 비교를 제공하는 복원 스튜디오
 
+<img src="https://github.com/Haeseong-Kwon/Optics-Restoration-Studio/blob/main/optics_restoration_demo_v6_final.webp?raw=true" width="700" alt="Optics Restoration Studio Demo">
+
 📷 RAW/저조도/모션블러 모드 + 전/후 비교 뷰어  
 📈 PSNR/SSIM 리포트 + 모델 비교(베이스라인 vs 개선모델)  
 🚀 업로드 → 즉시 추론 → 결과 다운로드까지 “프로덕트 흐름” 완성
