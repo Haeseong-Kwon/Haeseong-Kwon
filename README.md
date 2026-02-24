@@ -244,7 +244,7 @@
 ### 🧪 [CMOS Sensor Health Dashboard (센서 결함/노이즈 진단 대시보드)](https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard)
 > 센서 프레임/로그를 업로드하면 핫픽셀/고정패턴노이즈/라인 결함 등을 자동 탐지하고 리포트화하는 QA형 제품
 
-<img src="https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard/blob/main/assets/cmos_health_demo_v6.gif?raw=true" width="700" alt="CMOS Sensor Health Dashboard Demo">
+<img src="https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard/blob/main/assets/sensor_dashboard_full_workflow.gif?raw=true" width="700" alt="CMOS Sensor Health Dashboard Demo">
 
 🧠 결함 탐지 모델 + 통계 기반 품질 지표 자동 산출  
 🗺️ 결함 맵 시각화 + 배치 검사 + 불량률 추이 차트  
