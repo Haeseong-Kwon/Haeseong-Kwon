@@ -148,7 +148,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor) | [기획 문서](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor/blob/main/README.md)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor) | [기술 문서](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor/blob/main/README.md)
 
 </div>
 
