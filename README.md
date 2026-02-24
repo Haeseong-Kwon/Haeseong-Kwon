@@ -3,13 +3,13 @@
   Building seamless experiences from backend to frontend — for web, mobile, AI and beyond.
 </p>
 
-<div align="center">
+<p align="center">
   <br />
   <a href="https://portfolio-website-pi-six-74.vercel.app/">
-    <h3>🌐 [포트폴리오 웹사이트 보러가기]</h3>
+    <strong>🌐 [포트폴리오 웹사이트 보러가기]</strong>
   </a>
   <br />
-</div>
+</p>
 
 <br />
 
