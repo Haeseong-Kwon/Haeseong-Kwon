@@ -6,14 +6,11 @@
 ---
 
 <div align="center">
-  <a href="https://portfolio-website-pi-six-74.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-Visit%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <br />
   <br />
   <a href="https://portfolio-website-pi-six-74.vercel.app/">
-    <b>🌐 [포트폴리오 웹사이트 보러가기]</b>
+    <kbd><b>🚀 [포트폴리오 웹사이트 보러가기]</b></kbd>
   </a>
+  <br />
 
 ## 👋 About Me
 
