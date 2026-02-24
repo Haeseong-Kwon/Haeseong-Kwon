@@ -148,7 +148,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor) | [기획 문서](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor) | [기획 문서](https://github.com/Haeseong-Kwon/Metasurface-Process-Yield-Predictor/blob/main/README.md)
 
 </div>
 
@@ -172,7 +172,7 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory) | [아키텍처](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory) | [기술 문서](https://github.com/Haeseong-Kwon/Meta-Atom-Dataset-Factory/blob/main/README.md)
 
 </div>
 
@@ -195,7 +195,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/DICOM/NIfTI-000000?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Brain-MRI-Assist) | [결과 샘플](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Brain-MRI-Assist) | [기술 문서](https://github.com/Haeseong-Kwon/Brain-MRI-Assist/blob/main/README.md)
 
 </div>
 
@@ -219,7 +219,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/PINN-WaveLab) | [실험 리포트](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/PINN-WaveLab) | [기술 문서](https://github.com/Haeseong-Kwon/PINN-WaveLab/blob/main/README.md)
 
 </div>
 
@@ -243,7 +243,7 @@
 <img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Optics-Restoration-Studio) | [결과 샘플](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Optics-Restoration-Studio) | [기술 문서](https://github.com/Haeseong-Kwon/Optics-Restoration-Studio/blob/main/README.md)
 
 </div>
 
@@ -267,7 +267,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Visualization-9F86C0?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard) | [리포트 샘플](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard) | [기술 문서](https://github.com/Haeseong-Kwon/CMOS-Sensor-Health-Dashboard/blob/main/README.md)
 
 </div>
 
@@ -290,7 +290,7 @@
 <img src="https://img.shields.io/badge/Optimization-FFB703?style=flat"/>
 <img src="https://img.shields.io/badge/REST_API-FF6F61?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/AR-VR-Display-Calibrator) | [기술 문서](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/AR-VR-Display-Calibrator) | [기술 문서](https://github.com/Haeseong-Kwon/AR-VR-Display-Calibrator/blob/main/README.md)
 
 </div>
 
@@ -314,7 +314,7 @@
 <img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
 <img src="https://img.shields.io/badge/Report_PDF-8E44AD?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer) | [리포트 샘플](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer) | [기술 문서](https://github.com/Haeseong-Kwon/Photonics-Experiment-Log-Analyzer/blob/main/README.md)
 
 </div>
 
@@ -337,7 +337,7 @@
 <img src="https://img.shields.io/badge/Optimization-FFB703?style=flat"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence) | [기획 문서](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence) | [기술 문서](https://github.com/Haeseong-Kwon/Solar-Cell-Curve-Intelligence/blob/main/README.md)
 
 </div>
 
@@ -360,7 +360,7 @@
 <img src="https://img.shields.io/badge/Make-A543F4?style=flat&logo=make&logoColor=white"/>
 <img src="https://img.shields.io/badge/Automation-FFD43B?style=flat"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor) | [실험 리포트](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor) | [기술 문서](https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor/blob/main/README.md)
 
 </div>
 
