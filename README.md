@@ -1,9 +1,7 @@
-<h1 align="center"> HaeSeong Kwon | Full-Stack App/Web/AI Developer</h1>
+<<h1 align="center">HaeSeong Kwon | Full-Stack App/Web/AI Developer</h1>
 <p align="center">
   Building seamless experiences from backend to frontend — for web, mobile, AI and beyond.
 </p>
-
----
 
 <div align="center">
   <hr />
@@ -13,9 +11,7 @@
   <hr />
 </div>
 
-## 👋 About Me
-
-* 🚀 **Full-Cycle Full-Stack Developer**
+<br />
     * 서비스 기획, UI/UX 설계, 백엔드 아키텍처 구축, 클라우드 배포 및 유지보수 전 과정 직접 수행
     * **Next.js 14**, **FastAPI**, **Node.js** 기반의 엔드투엔드(E2E) 시스템 설계 및 최적화 역량 보유
     * **Supabase** 및 **PostgreSQL**을 활용한 8개 이상의 실전 프로젝트 DB 스택 구축 및 운영
