@@ -1,12 +1,13 @@
 <h1 align="center">HaeSeong Kwon | Full-Stack App/Web/AI Developer</h1>
+<hr />
 
 <div align="center">
+  <br />
   <h2>Building seamless experiences from backend to frontend — for web, mobile, AI and beyond.</h2>
   <br />
   <a href="https://portfolio-website-pi-six-74.vercel.app/">
     <h2>🌐 [포트폴리오 웹사이트 보러가기]</h2>
   </a>
-  <br />
 </div>
 
 <br />
