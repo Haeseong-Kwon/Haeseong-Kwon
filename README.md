@@ -4,11 +4,11 @@
 </p>
 
 <div align="center">
-  <hr />
+  <br />
   <a href="https://portfolio-website-pi-six-74.vercel.app/">
     <h3>🌐 [포트폴리오 웹사이트 보러가기]</h3>
   </a>
-  <hr />
+  <br />
 </div>
 
 <br />
