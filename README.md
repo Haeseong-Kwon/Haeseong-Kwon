@@ -6,11 +6,12 @@
 ---
 
 <div align="center">
-  <br />
+  <hr />
   <a href="https://portfolio-website-pi-six-74.vercel.app/">
-    <kbd><b>🚀 [포트폴리오 웹사이트 보러가기]</b></kbd>
+    <h3>🌐 [포트폴리오 웹사이트 보러가기]</h3>
   </a>
-  <br />
+  <hr />
+</div>
 
 ## 👋 About Me
 
