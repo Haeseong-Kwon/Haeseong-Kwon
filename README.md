@@ -20,7 +20,7 @@
 * 🚀 **Full-Cycle Full-Stack Developer**
   * 서비스 기획, UI/UX 설계, 백엔드 아키텍처 구축, 클라우드 배포 및 유지보수 전 과정 직접 수행
   * **Next.js 14**, **FastAPI**, **Node.js** 기반의 엔드투엔드(E2E) 시스템 설계 및 최적화 역량 보유
-  * **Supabase** 및 **PostgreSQL**을 활용한 8개 이상의 실전 프로젝트 DB 스택 구축 및 운영
+  * **Supabase** 및 **PostgreSQL**을 활용한 13개 이상의 실전 프로젝트 DB 스택 구축 및 운영
 
 * 🧠 **Applied AI Research Engineer**
     * **PINN(Physics-Informed Neural Networks)** 기반의 물리 법칙 통합형 딥러닝 모델 설계 및 실험
@@ -126,7 +126,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 
-🔗 [Repository](https://github.com/Haeseong-Kwon/MetaSurface-Designer) | [기술 문서](#)
+🔗 [Repository](https://github.com/Haeseong-Kwon/MetaSurface-Designer) | [기술 문서](https://github.com/Haeseong-Kwon/Metasurface-Designer/blob/main/README.md)
 
 </div>
 ---
