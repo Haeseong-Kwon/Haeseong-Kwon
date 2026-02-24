@@ -3,11 +3,14 @@
 
 <div align="center">
   <br />
-  <h2>Building seamless experiences from backend to frontend — for web, mobile, AI and beyond.</h2>
+  <p align="center">
+    <font size="5"><strong>Building seamless experiences from backend to frontend — for web, mobile, AI and beyond.</strong></font>
+  </p>
   <br />
   <a href="https://portfolio-website-pi-six-74.vercel.app/">
-    <h2>🌐 [포트폴리오 웹사이트 보러가기]</h2>
+    <font size="5"><strong>🌐 [포트폴리오 웹사이트 보러가기]</strong></font>
   </a>
+  <br />
 </div>
 
 <br />
