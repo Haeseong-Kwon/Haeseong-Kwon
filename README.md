@@ -338,7 +338,7 @@
 ### 🧫 [Medical GenAI Augmentor (의료 데이터 증강 파이프라인)](https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor)
 > 데이터 부족/불균형을 해결하기 위한 조건부 생성(증강) → 품질 필터링 → 성능 전/후 리포트까지 묶은 생성형AI 제품
 
-<img src="https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor/blob/main/medical_genai_augmentor_demo.gif?raw=true" width="700" alt="Medical GenAI Augmentor Demo">
+<img src="https://github.com/Haeseong-Kwon/Medical-GenAI-Augmentor/blob/main/medical_augmentor_demo.gif?raw=true" width="700" alt="Medical GenAI Augmentor Demo">
 
 🪄 생성 샘플 품질 자동 필터링 + 다양성/유사도 지표  
 📊 증강 전/후 학습 성능 비교 리포트 자동 생성  
