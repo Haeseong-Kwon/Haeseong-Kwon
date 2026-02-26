@@ -36,7 +36,7 @@
     * 실시간 API 통신 및 복잡한 상태 관리를 포함한 크로스플랫폼 솔루션 구현
 
 * 🎓 **Academic Foundation**
-    * **한양대학교 ERICA 컴퓨터학부** 전공 (Computer Science & Engineering)
+    * **한양대학교 ERICA 컴퓨터학부** 재학 (Computer Science & Engineering) - 2026년 여름 졸업예정
     * 전산학 및 알고리즘 최적화 역량을 기반으로 한 공학적 문제 해결 능력 보유
 
 ---
