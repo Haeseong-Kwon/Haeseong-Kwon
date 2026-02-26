@@ -83,7 +83,7 @@
 * 🥇 **2025 한양대학교 SW창업우수상 수상 (우수사례 선정)** [[상장](https://drive.google.com/file/d/1ElzJeMyIpkpBTnQZkAfDp7iTOZ5_CIy2/view?usp=drive_link)]
 * 🥉 **2025 한양대학교 SW창업 IR 경진대회 장려상 수상** [[상장](https://drive.google.com/file/d/1Zo5mHCgC7u1pol4WW1IgtiuM8KYdiIzb/view?usp=drive_link)]
 * 🥉 **2025 한양대학교 (해동과학연구재단) 해동창업경진대회 장려상 수상** [[상장](https://drive.google.com/file/d/1eJF640O1n6q5uPLAVahV1ltBYKiN-q_Q/view?usp=drive_link)]
-* 🥈 **2025 한양대학교 SID Audition 최우수상 수상 – 드론 배터리 상태관리 및 관제 통합 시스템** [[상장](https://drive.google.com/file/d/1Oc3ZoVfWXgThTUCW2gSNPs-ZMgIMD1jR/view?usp=drive_link)]
+* 🥈 **2025 한양대학교 Deep-Tech Audition 최우수상 수상 – 드론 배터리 상태관리 및 관제 통합 시스템** [[상장](https://drive.google.com/file/d/1Oc3ZoVfWXgThTUCW2gSNPs-ZMgIMD1jR/view?usp=drive_link)]
 * 🥈 **2025 한양대학교 SW융합대학 포트폴리오 경진대회 최우수상 수상 – 개인 앱/AI 프로젝트 기반 종합 평가** [[상장](https://drive.google.com/file/d/1XQXHYNCTuzd04Ttodz57X692wfN0Zd0h/view?usp=drive_link)]
 * 🏅 2024 한양대학교 SID Audition 본선 진출 – AI 기반 디테일 신체 치수별 패션 아이템 추천 알고리즘
 * 📚 와디즈 전자책 프로젝트 2건 성공 – 달성률 1200%, 3000%로 콘텐츠 분야 연속 펀딩 달성
